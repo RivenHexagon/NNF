@@ -3,11 +3,8 @@
 
 <https://nononsenseforex.com/forex-podcast/>
 
-<https://nononsenseforex.podbean.com/page/9/>
-
 ## [Episode 3:](https://nononsenseforex.podbean.com/e/ep3-which-time-frame-gives-you-the-best-results/ "Ep 3 - What time frame to trade in?")
 ### Which Time Frame Gives You The Best Results?
- (consistent winning, for e.g. over a year)
 
 ### Answer: *The daily chart*
 
