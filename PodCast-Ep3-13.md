@@ -36,7 +36,7 @@
 *   Take the *eight majors* EUR, GBP, USD, AUD, NZD, CAD, CHF, JPY and trade every
     combination - 1 => 27 pairs
 *   Best chances of winning in the majors. NNF usually doesn't trade *exotics*.
-*   27 pairs also gives a good chance of entering a few trades at the beginning
+*   27 pairs also give a good chance of entering a few trades at the beginning
     of a trading day, ususaly ending up in 4-5 active trades.
 *   Currency pairs do not have their own uniqe movement. Soon or later they all
     move the same, just at a differnet time of the year.
@@ -56,9 +56,38 @@
 
 ## [Episode 6:](https://nononsenseforex.podbean.com/e/ep6-how-long-should-you-demo-trade/ "Ep 6 - How long to trade demo?")
 ### How Long Should You Demo Trade?
-### Answer: *long enough*
+### Answer: *6 month sample with 6% return*
+
+*   Say you start with 50 k. Within the next 6 month come up with 53 k with no blow
+    out or major drawdown.
+*   The *american stock market* on average does just under **12 %** rate of return
+    year after year. In *FX* you have to beat that.
+
+
+## [Episode 7:](https://nononsenseforex.podbean.com/e/ep7-what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Trading equipment?")
+### What Equipment Do I need To Trade Forex?
+### Answer: *A Laptop*
+
+
+## [Episode 8:](https://nononsenseforex.podbean.com/e/ep8-where-do-i-set-my-leverage/ "Ep 8 - Where to set leverage?")
+### Where Do I Set My Leverage?
+### Answer: *20:1*
+
+*   Option 1: Set the leverage to 20:1 and leave it.
+*   Option 2: If half of your trading capital is not on your brokerage account, double
+    the leverage. the sizes of your trades are not changing but the acoount size has.
+    It has to be balanced out.
+*   The EU passed a law in 2018 that limits the leverage to 30:1 in FX.
 
 x
+
+x
+
+Important Videos:
+
+* Money Management Video
+* ATR Video
+* Dirty Dozen Video
 
 x
 
