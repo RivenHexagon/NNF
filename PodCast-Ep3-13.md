@@ -50,10 +50,10 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 ### How Much Money Do You Need To Trade Forex Professionally?
 ### Answer: *Trade the money of others*
 
-*   If you had 100 k in your account, a 20% return over year in FX, gave you 20 k
+*   If you had 100 k in account, a 20% return over year in FX, gave you 20 k
     before tax!
 *   Alternatively you trade on the behalf of others, provided you're consistently
-    good at FX.
+    good.
 *   Prove can be given even on a demo account over at least a year.
 *   Prove to others in realtime that you can keep up under pressure.
 
@@ -89,7 +89,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 ### Answer: *None of those NNF uses are charged*
 
 *   NNF's algorithm consists of 6-7 indicators.
-*   After testing about 2000 of em, about 1900 turned out trash. 50 where okay but 
+*   After testing about 2000 of em, about 1900 turned out trash. 50 where okay but
     not great.
 *   Around 50 turned out really good. NNF reduced them to 7, but keeps the 50 around
     for improvements.
@@ -101,7 +101,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 
 ## [Episode 10:](https://nononsenseforex.podbean.com/e/ep10-best-forex-trading-broker/ "Ep 10 - Best FX Broker") / [[Blog]](http://nononsenseforex.com/uncategorized/best-forex-trading-broker/ "Ep 10 - Blog")
 ### Best Forex Trading Broker
-### Answer: *see below*
+### Answer: *See below*
 
  1. The broker is very **large**, heavy **capitalized** and **insured**.
  2. Aallow demotrading as long as you wish.
@@ -115,19 +115,37 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 
  1. Currency pair.
  2. Long or short.
- 3. Amount of ***net*** **pips** gained or lost.
+ 3. Amount of ***net*** **pips** gained or lost. *Net* pips since we take profit
+    about half ways throuh.
  4. A link to a screenshot of the trade, with a line drawn where entered and exited.
     Helps to evaluate *take profit, stop loss, and timing of those*.
- 5. **Comments** Expected profits or losses (by following your system) don't get a comment.
-    Take note of mistakes, like getting emotional, deviating from the system, trading a
-    news event, ignoring an indicator.
+ 5. In **comments** profits or losses (expected, by following your system) don't
+    get a comment. Take note of mistakes, like getting emotional, deviating from the
+    system, trading a news event, ignoring an indicator.
 
 
 ## [Episode 12](https://nononsenseforex.podbean.com/e/ep12-is-forex-recession-proof/ "Ep 12 - Is FX Recession-Proof?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/is-forex-a-recession-proof-investment/ "Ep 12 - Blog")
 ### Is Forex Recession-Proof?
-### Answer: *answer*
+### Answer: *Yes*
+
+*   The merket keep going the way it always did, even in a recession: one currency
+    vs. another.
+*   Due to the variety of currency pairs, FX seems intrinsically divertsified. But
+    you're only beeing paid out in one currency! Turn some of the money into other
+    currencies and have them physically with you. NNF has **USD, CHF and CNY in cash**!
+*   But have a plan in place for such events. Have money in different places. Buy
+    precious metals.
+*   Stocks, Real Estate and most investments are helples to the market's doing.
+*   Ray Dalio, How The Economics Machine Works: <https://youtu.be/PHe0bXAIuk0>
+*   Peter Schiff, Making the Dollar Weak Again: <https://youtu.be/-1zENR5iW3k>
 
 
 ## [Episode 13](https://nononsenseforex.podbean.com/e/ep13-trading-psychology-3-things-you-must-have-to-go-pro/ "Ep 13 - Trading Psychology") / [[Blog]](http://nononsenseforex.com/trading-psychology/forex-trading-psychology/ "Ep 13 - Blog")
 ### Trading Psychology - 3 Things You Must Have To Go Pro
-### Answer: *answer*
+### Answer: *See qualities below*
+
+ 1. **Initiative** - be a doer.
+ 2. **Discipline** - stick to the plan, don't be emotional. Even keep your phone away
+    when you trade.
+ 3. **Patience**
+
