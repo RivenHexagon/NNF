@@ -13,11 +13,10 @@ Blog: <https://nononsenseforex.com/forex-blog/>
  1. **Every technical tool works better and more consistently on the daily chart**
     than on every other time frame. NNF tested this day by day over the years. His
     indicators were always more often right in this time frame. Even weak tools.
-
+    (NNF trades at 2:00 pm PST)
  2. **You get your time back.** NNF doesn't spend more than 15 min / day on trading.
     His algorithm tells him: Make, manage or keep a trade. Shorter time frames
     may include a lot of waiting/screen time where the market doesn't even move.
-
  3. **News events matter a lot less.** Even unsignificant news can kill a trade on
     short time frames. You may be able absorb big news events on a daily scale. A
     news event in a pair's favour could tourn out against you when the banks choose
@@ -26,8 +25,6 @@ Blog: <https://nononsenseforex.com/forex-blog/>
  4. **The big banks** employ traders for the purpose to move the market. This fucks
     by far more the 15 min chart traders than the day traders. There are more short
     term traders and they trade all the time.
-
-    NNF trades at 2:00 pm PST.
 
 
 ## [Episode 4:](https://nononsenseforex.podbean.com/e/ep4-how-many-pairs-should-you-trade/ "Ep 4 - How many pairs to trade?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/how-many-currency-pairs-should-i-trade/ "Ep 4 - Blog")
