@@ -3,7 +3,7 @@
 
 <https://nononsenseforex.com/forex-podcast/>
 
-## [Episode 3:](https://nononsenseforex.podbean.com/e/ep3-which-time-frame-gives-you-the-best-results/ "Ep 3 - What time frame to trade in?")
+## [Episode 3:](https://nononsenseforex.podbean.com/e/ep3-which-time-frame-gives-you-the-best-results/ "Ep 3 - What time frame to trade in?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/best-time-frame-to-trade-forex/ "Ep 3 - Blog")
 ### Which Time Frame Gives You The Best Results?
 
 ### Answer: *The daily chart*
@@ -28,7 +28,7 @@
     NNF trades at 2:00 pm PST.
 
 
-## [Episode 4:](https://nononsenseforex.podbean.com/e/ep4-how-many-pairs-should-you-trade/ "Ep 4 - How many pairs to trade?")
+## [Episode 4:](https://nononsenseforex.podbean.com/e/ep4-how-many-pairs-should-you-trade/ "Ep 4 - How many pairs to trade?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/how-many-currency-pairs-should-i-trade/ "Ep 4 - Blog")
 ### How Many Pairs Should You Trade?
 ### Answer: *All combinations of majors - 1 = 27*
 
@@ -44,50 +44,78 @@
     trader. But this pair has been tied together for a long time.
 
 
-## [Episode 5:](https://nononsenseforex.podbean.com/e/ep5-how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - How much money to trade?")
+## [Episode 5:](https://nononsenseforex.podbean.com/e/ep5-how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - How much money to trade?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/how-much-money-d…x-professionally/ "Ep 5 - Blog")
 ### How Much Money Do You Need To Trade Forex Professionally?
 ### Answer: *Trade the money of others*
 
-*   If you had 100 k in your account, a 20% return over year in FX, gave you 20 k before tax!
-*   Alternatively you trade on the behalf of others, provided you're consistently good at FX.
+*   If you had 100 k in your account, a 20% return over year in FX, gave you 20 k
+    before tax!
+*   Alternatively you trade on the behalf of others, provided you're consistently
+    good at FX.
 *   Prove can be given even on a demo account over at least a year.
 *   Prove to others in realtime that you can keep up under pressure.
 
 
-## [Episode 6:](https://nononsenseforex.podbean.com/e/ep6-how-long-should-you-demo-trade/ "Ep 6 - How long to trade demo?")
+## [Episode 6:](https://nononsenseforex.podbean.com/e/ep6-how-long-should-you-demo-trade/ "Ep 6 - How long to trade demo?") / [[Blog]](http://nononsenseforex.com/uncategorized/how-long-should-you-demo-trade-podcast-episode-6/ "Ep 6 - Blog")
 ### How Long Should You Demo Trade?
 ### Answer: *6 month sample with 6% return*
 
-*   Say you start with 50 k. Within the next 6 month come up with 53 k with no blow
-    out or major drawdown.
+*   Say you start with 50 k. Within the next 6 month come up with 53 k with no
+    blow-out or major drawdown.
 *   The *american stock market* on average does just under **12 %** rate of return
     year after year. In *FX* you have to beat that.
 
 
-## [Episode 7:](https://nononsenseforex.podbean.com/e/ep7-what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Trading equipment?")
+## [Episode 7:](https://nononsenseforex.podbean.com/e/ep7-what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Trading equipment?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Blog")
 ### What Equipment Do I need To Trade Forex?
 ### Answer: *A Laptop*
 
 
-## [Episode 8:](https://nononsenseforex.podbean.com/e/ep8-where-do-i-set-my-leverage/ "Ep 8 - Where to set leverage?")
+## [Episode 8:](https://nononsenseforex.podbean.com/e/ep8-where-do-i-set-my-leverage/ "Ep 8 - Where to set leverage?") / [[Blog]](hhttp://nononsenseforex.com/forex-q-and-a-podcast/best-leverage-in-forex/ "Ep 8 - Blog")
 ### Where Do I Set My Leverage?
 ### Answer: *20:1*
 
 *   Option 1: Set the leverage to 20:1 and leave it.
-*   Option 2: If half of your trading capital is not on your brokerage account, double
-    the leverage. the sizes of your trades are not changing but the acoount size has.
-    It has to be balanced out.
+*   Option 2: If half of your trading capital is not on your brokerage account,
+    double the leverage. the sizes of your trades are not changing but the account
+    size has. This has to be balanced out.
 *   The EU passed a law in 2018 that limits the leverage to 30:1 in FX.
 
-x
+
+## [Episode 9:](https://nononsenseforex.podbean.com/e/ep9-should-i-pay-for-indicators/ "Ep 9 - Pay for Indicators?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/are-paid-forex-indicators-worth-it/ "Ep 9 - Blog")
+### Should I Pay For Indicators?
+### Answer: *None of those NNF uses are charged*
+
+*   NNF's algorithm consists of 6-7 indicators.
+*   After testing about 2000 of em, about 1900 turned out trash. 50 where okay but 
+    not great.
+*   Around 50 turned out really good. NNF reduced them to 7, but keeps the 50 around
+    for improvements.
+*   NNF hates RSI: <https://youtu.be/xIxRXH_yYG0>
+*   Our star, the ATR: <https://youtu.be/086ozcHDZPw>
+*   The Dirty Dozen: <https://youtu.be/3c6o4O8goAo>
+*   The eMail list is no more, it all turned into videos.
+
+
+## [Episode 10:](https://nononsenseforex.podbean.com/e/ep10-best-forex-trading-broker/ "Ep 10 - Best FX Broker") / [[Blog]](http://nononsenseforex.com/uncategorized/best-forex-trading-broker/ "Ep 10 - Blog")
+### Best Forex Trading Broker
+### Answer: *see below*
+
+ 1. The broker is very **large**, heavy **capitalized** and **insured**.
+ 2. Aallow demotrading as long as you wish.
+ 3. Allows Meta Trader 4.
+ 4. Good customer service with native speakers in your language.
+
+
+## [Episode 11](https://nononsenseforex.podbean.com/e/ep11-journaling-done-right/ "Ep 11 - Journaling") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/forex-journal-dos-and-donts/ "Ep 11 - Blog")
+### Journaling Done Right = $$
+### Answer: *see below*
+
+
 
 x
 
-Important Videos:
-
-* Money Management Video
-* ATR Video
-* Dirty Dozen Video
+x
 
 x
 
