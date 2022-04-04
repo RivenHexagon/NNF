@@ -1,7 +1,9 @@
 
 # NNF Essentials on PodCast Episodes 3 - 13
 
-<https://nononsenseforex.com/forex-podcast/>
+Podcast: <https://nononsenseforex.com/forex-podcast/>
+
+Blog: <https://nononsenseforex.com/forex-blog/>
 
 ## [Episode 3:](https://nononsenseforex.podbean.com/e/ep3-which-time-frame-gives-you-the-best-results/ "Ep 3 - What time frame to trade in?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/best-time-frame-to-trade-forex/ "Ep 3 - Blog")
 ### Which Time Frame Gives You The Best Results?
@@ -77,8 +79,8 @@
 
 *   Option 1: Set the leverage to 20:1 and leave it.
 *   Option 2: If half of your trading capital is not on your brokerage account,
-    double the leverage. the sizes of your trades are not changing but the account
-    size has. This has to be balanced out.
+    double the leverage. the sizes of your trades are not changing in % but the
+    account size has. This has to be balanced out.
 *   The EU passed a law in 2018 that limits the leverage to 30:1 in FX.
 
 
@@ -109,16 +111,23 @@
 
 ## [Episode 11](https://nononsenseforex.podbean.com/e/ep11-journaling-done-right/ "Ep 11 - Journaling") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/forex-journal-dos-and-donts/ "Ep 11 - Blog")
 ### Journaling Done Right = $$
-### Answer: *see below*
+### Answer: *Spread sheet with 5 columns:*
+
+ 1. Currency pair.
+ 2. Long or short.
+ 3. Amount of ***net*** **pips** gained or lost.
+ 4. A link to a screenshot of the trade, with a line drawn where entered and exited.
+    Helps to evaluate *take profit, stop loss, and timing of those*.
+ 5. **Comments** Expected profits or losses (by following your system) don't get a comment.
+    Take note of mistakes, like getting emotional, deviating from the system, trading a
+    news event, ignoring an indicator.
 
 
+## [Episode 12](https://nononsenseforex.podbean.com/e/ep12-is-forex-recession-proof/ "Ep 12 - Is FX Recession-Proof?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/is-forex-a-recession-proof-investment/ "Ep 12 - Blog")
+### Is Forex Recession-Proof?
+### Answer: *answer*
 
-x
 
-x
-
-x
-
-x
-
-***END***
+## [Episode 13](https://nononsenseforex.podbean.com/e/ep13-trading-psychology-3-things-you-must-have-to-go-pro/ "Ep 13 - Trading Psychology") / [[Blog]](http://nononsenseforex.com/trading-psychology/forex-trading-psychology/ "Ep 13 - Blog")
+### Trading Psychology - 3 Things You Must Have To Go Pro
+### Answer: *answer*
