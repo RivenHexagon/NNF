@@ -29,13 +29,13 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 
 ## [Episode 4](https://nononsenseforex.podbean.com/e/ep4-how-many-pairs-should-you-trade/ "Ep 4 - How many pairs to trade?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/how-many-currency-pairs-should-i-trade/ "Ep 4 - Blog")
 ### How Many Pairs Should You Trade?
-### Answer: *All combinations of majors - 1 = 27*
+### Answer: *All combinations of majors = 28*
 
 *   It's a big mistake just to trade less or just a few.
 *   Take the *eight majors* EUR, GBP, USD, AUD, NZD, CAD, CHF, JPY and trade every
-    combination - 1 => 27 pairs
+    combination.
 *   Best chances of winning in the majors. VP usually doesn't trade *exotics*.
-*   27 pairs also give a good chance of entering a few trades at the beginning
+*   28 pairs also give a good chance of entering a few trades at the beginning
     of a trading day, ususaly ending up in 4-5 active trades.
 *   Currency pairs do not have their own uniqe movement. Soon or later they all
     move the same, just at a differnet time of the year.
