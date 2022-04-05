@@ -5,16 +5,16 @@ Podcast: <https://nononsenseforex.com/forex-podcast/>
 
 Blog: <https://nononsenseforex.com/forex-blog/>
 
-## [Episode 3:](https://nononsenseforex.podbean.com/e/ep3-which-time-frame-gives-you-the-best-results/ "Ep 3 - What time frame to trade in?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/best-time-frame-to-trade-forex/ "Ep 3 - Blog")
+## [Episode 3](https://nononsenseforex.podbean.com/e/ep3-which-time-frame-gives-you-the-best-results/ "Ep 3 - What time frame to trade in?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/best-time-frame-to-trade-forex/ "Ep 3 - Blog")
 ### Which Time Frame Gives You The Best Results?
 
 ### Answer: *The daily chart*
 
  1. **Every technical tool works better and more consistently on the daily chart**
-    than on every other time frame. NNF tested this day by day over the years. His
+    than on every other time frame. VP tested this day by day over the years. His
     indicators were always more often right in this time frame. Even weak tools.
-    (NNF trades at 2:00 pm PST)
- 2. **You get your time back.** NNF doesn't spend more than 15 min / day on trading.
+    (VP trades at 2:00 pm PST)
+ 2. **You get your time back.** VP doesn't spend more than 15 min / day on trading.
     His algorithm tells him: Make, manage or keep a trade. Shorter time frames
     may include a lot of waiting/screen time where the market doesn't even move.
  3. **News events matter a lot less.** Even unsignificant news can kill a trade on
@@ -27,23 +27,24 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     term traders and they trade all the time.
 
 
-## [Episode 4:](https://nononsenseforex.podbean.com/e/ep4-how-many-pairs-should-you-trade/ "Ep 4 - How many pairs to trade?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/how-many-currency-pairs-should-i-trade/ "Ep 4 - Blog")
+## [Episode 4](https://nononsenseforex.podbean.com/e/ep4-how-many-pairs-should-you-trade/ "Ep 4 - How many pairs to trade?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/how-many-currency-pairs-should-i-trade/ "Ep 4 - Blog")
 ### How Many Pairs Should You Trade?
 ### Answer: *All combinations of majors - 1 = 27*
 
 *   It's a big mistake just to trade less or just a few.
 *   Take the *eight majors* EUR, GBP, USD, AUD, NZD, CAD, CHF, JPY and trade every
     combination - 1 => 27 pairs
-*   Best chances of winning in the majors. NNF usually doesn't trade *exotics*.
+*   Best chances of winning in the majors. VP usually doesn't trade *exotics*.
 *   27 pairs also give a good chance of entering a few trades at the beginning
     of a trading day, ususaly ending up in 4-5 active trades.
 *   Currency pairs do not have their own uniqe movement. Soon or later they all
     move the same, just at a differnet time of the year.
-*   **EUR/CHF** is the only currency pair **NNF doesn't trade**. He is a trend
-    trader. But this pair has been tied together for a long time.
+*   **EUR/CHF** is the only currency pair **VP didn't trade** in 2018.The pair has
+    been tied together for a long time. Now he does, since the situation has changed.
+*   Supplemental: [Stop Trading the EUR/USD Only](https://nononsenseforex.com/forex-basics/how-to-trade-the-eurusd-not-what-you-think/ "EUR/USD")
 
 
-## [Episode 5:](https://nononsenseforex.podbean.com/e/ep5-how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - How much money to trade?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/how-much-money-d…x-professionally/ "Ep 5 - Blog")
+## [Episode 5](https://nononsenseforex.podbean.com/e/ep5-how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - How much money to trade?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - Blog")
 ### How Much Money Do You Need To Trade Forex Professionally?
 ### Answer: *Trade the money of others*
 
@@ -55,7 +56,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 *   Prove to others in realtime that you can keep up under pressure.
 
 
-## [Episode 6:](https://nononsenseforex.podbean.com/e/ep6-how-long-should-you-demo-trade/ "Ep 6 - How long to trade demo?") / [[Blog]](http://nononsenseforex.com/uncategorized/how-long-should-you-demo-trade-podcast-episode-6/ "Ep 6 - Blog")
+## [Episode 6](https://nononsenseforex.podbean.com/e/ep6-how-long-should-you-demo-trade/ "Ep 6 - How long to trade demo?") / [[Blog]](http://nononsenseforex.com/uncategorized/how-long-should-you-demo-trade-podcast-episode-6/ "Ep 6 - Blog")
 ### How Long Should You Demo Trade?
 ### Answer: *6 month sample with 6% return*
 
@@ -65,12 +66,12 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     year after year. In *FX* you have to beat that.
 
 
-## [Episode 7:](https://nononsenseforex.podbean.com/e/ep7-what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Trading equipment?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Blog")
+## [Episode 7](https://nononsenseforex.podbean.com/e/ep7-what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Trading equipment?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Blog")
 ### What Equipment Do I need To Trade Forex?
 ### Answer: *A Laptop*
 
 
-## [Episode 8:](https://nononsenseforex.podbean.com/e/ep8-where-do-i-set-my-leverage/ "Ep 8 - Where to set leverage?") / [[Blog]](hhttp://nononsenseforex.com/forex-q-and-a-podcast/best-leverage-in-forex/ "Ep 8 - Blog")
+## [Episode 8](https://nononsenseforex.podbean.com/e/ep8-where-do-i-set-my-leverage/ "Ep 8 - Where to set leverage?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/best-leverage-in-forex/ "Ep 8 - Blog")
 ### Where Do I Set My Leverage?
 ### Answer: *20:1*
 
@@ -81,22 +82,22 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 *   The EU passed a law in 2018 that limits the leverage to 30:1 in FX.
 
 
-## [Episode 9:](https://nononsenseforex.podbean.com/e/ep9-should-i-pay-for-indicators/ "Ep 9 - Pay for Indicators?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/are-paid-forex-indicators-worth-it/ "Ep 9 - Blog")
+## [Episode 9](https://nononsenseforex.podbean.com/e/ep9-should-i-pay-for-indicators/ "Ep 9 - Pay for Indicators?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/are-paid-forex-indicators-worth-it/ "Ep 9 - Blog")
 ### Should I Pay For Indicators?
-### Answer: *None of those NNF uses are charged*
+### Answer: *None of those VP uses are charged*
 
-*   NNF's algorithm consists of 6-7 indicators.
+*   VP's algorithm consists of 6-7 indicators.
 *   After testing about 2000 of em, about 1900 turned out trash. 50 where okay but
     not great.
-*   Around 50 turned out really good. NNF reduced them to 7, but keeps the 50 around
+*   Around 50 turned out really good. VP reduced them to 7, but keeps the 50 around
     for improvements.
-*   NNF hates RSI: <https://youtu.be/xIxRXH_yYG0>
+*   VP hates RSI: <https://youtu.be/xIxRXH_yYG0>
 *   Our star, the ATR: <https://youtu.be/086ozcHDZPw>
 *   The Dirty Dozen: <https://youtu.be/3c6o4O8goAo>
 *   The eMail list is no more, it all turned into videos.
 
 
-## [Episode 10:](https://nononsenseforex.podbean.com/e/ep10-best-forex-trading-broker/ "Ep 10 - Best FX Broker") / [[Blog]](http://nononsenseforex.com/uncategorized/best-forex-trading-broker/ "Ep 10 - Blog")
+## [Episode 10](https://nononsenseforex.podbean.com/e/ep10-best-forex-trading-broker/ "Ep 10 - Best FX Broker") / [ - - - ]
 ### Best Forex Trading Broker
 ### Answer: *See below*
 
@@ -104,6 +105,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
  2. Aallow demotrading as long as you wish.
  3. Allows Meta Trader 4.
  4. Good customer service with native speakers in your language.
+ 5. Supplemental: [Best Broker For Non-US Residents](https://nononsenseforex.com/uncategorized/blueberry-markets-review-my-top-broker-for-2019/ "Non-US Brokers")
 
 
 ## [Episode 11](https://nononsenseforex.podbean.com/e/ep11-journaling-done-right/ "Ep 11 - Journaling") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/forex-journal-dos-and-donts/ "Ep 11 - Blog")
@@ -129,7 +131,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     vs. another.
 *   Due to the variety of currency pairs, FX seems intrinsically divertsified. But
     you're only beeing paid out in one currency! Turn some of the money into other
-    currencies and have them physically with you. NNF has **USD, CHF and CNY in cash**!
+    currencies and have them physically with you. VP has **USD, CHF and CNY in cash**!
 *   But have a plan in place for such events. Have money in different places. Buy
     precious metals.
 *   Stocks, Real Estate and most investments are helples to the market's doing.
@@ -142,7 +144,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 ### Answer: *See qualities below*
 
  1. **Initiative** - be a doer.
- 2. **Discipline** - stick to the plan, don't be emotional. Even keep your phone away
-    when you trade.
+ 2. **Discipline** - stick to the plan, don't be emotional. Even keep your phone
+    away when you trade.
  3. **Patience**
 
