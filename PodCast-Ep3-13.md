@@ -125,11 +125,11 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 
 ## [Episode 12](https://nononsenseforex.podbean.com/e/ep12-is-forex-recession-proof/ "Ep 12 - Is FX Recession-Proof?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/is-forex-a-recession-proof-investment/ "Ep 12 - Blog")
 ### Is Forex Recession-Proof?
-### Answer: *Yes*
+### Answer: *Yes **
 
 *   The merket keep going the way it always did, even in a recession: one currency
     vs. another.
-*   Due to the variety of currency pairs, FX seems intrinsically divertsified. But
+*   \* Due to the variety of currency pairs, FX seems intrinsically divertsified. But
     you're only beeing paid out in one currency! Turn some of the money into other
     currencies and have them physically with you. VP has **USD, CHF and CNY in cash**!
 *   But have a plan in place for such events. Have money in different places. Buy
