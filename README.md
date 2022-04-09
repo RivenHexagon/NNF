@@ -1,4 +1,4 @@
-# NNF Strategy Papers
+# NNF Strategy Essentials
 
 install ReText to propperly display or edit the papers
 
