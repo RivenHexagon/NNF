@@ -23,7 +23,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     to take the opposite position. Or you just keep out of a currency pair that is
     effected by this news. *So keep at least your FX news calendar open.*
  4. **The big banks** employ traders for the purpose to move the market. This fucks
-    by far more the 15 min chart traders than the day traders. There are more short
+    by far more the 15-min-chart traders than the day traders. There are more short
     term traders and they trade all the time.
 
 
@@ -36,19 +36,19 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     combination.
 *   Best chances of winning in the majors. VP usually doesn't trade *exotics*.
 *   28 pairs also give a good chance of entering a few trades at the beginning
-    of a trading day, ususaly ending up in 4-5 active trades.
+    of a trading day, ususally ending up in 4-5 active trades.
 *   Currency pairs do not have their own uniqe movement. Soon or later they all
-    move the same, just at a differnet time of the year.
+    move the same, just at a different time of the year.
 *   **EUR/CHF** is the only currency pair **VP didn't trade** in 2018.The pair has
     been tied together for a long time. Now he does, since the situation has changed.
-*   Supplemental: [Stop Trading the EUR/USD Only](https://nononsenseforex.com/forex-basics/how-to-trade-the-eurusd-not-what-you-think/ "EUR/USD")
+*   Blog Supplemental: [Stop Trading the EUR/USD Only](https://nononsenseforex.com/forex-basics/how-to-trade-the-eurusd-not-what-you-think/ "EUR/USD")
 
 
 ## [Episode 5](https://nononsenseforex.podbean.com/e/ep5-how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - How much money to trade?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - Blog")
 ### How Much Money Do You Need To Trade Forex Professionally?
 ### Answer: *Trade the money of others*
 
-*   If you had 100 k in account, a 20% return over year in FX, gave you 20 k
+*   If you had 100 k in account, a 20% return over year in FX, gave you just 20 k
     before tax!
 *   Alternatively you trade on the behalf of others, provided you're consistently
     good.
@@ -77,8 +77,8 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 
 *   Option 1: Set the leverage to 20:1 and leave it.
 *   Option 2: If half of your trading capital is not on your brokerage account,
-    double the leverage. the sizes of your trades are not changing in % but the
-    account size has. This has to be balanced out.
+    double the leverage. The sizes of your trades don't change in % but the
+    account size does. This has to be balanced out.
 *   The EU passed a law in 2018 that limits the leverage to 30:1 in FX.
 
 
@@ -101,11 +101,11 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 ### Best Forex Trading Broker
 ### Answer: *See below*
 
- 1. The broker is very **large**, heavy **capitalized** and **insured**.
- 2. Aallow demotrading as long as you wish.
+ 1. The broker is very **large**, heavily **capitalized** and **insured**.
+ 2. Allows demotrading as long as you wish to.
  3. Allows Meta Trader 4.
  4. Good customer service with native speakers in your language.
- 5. Supplemental: [Best Broker For Non-US Residents](https://nononsenseforex.com/uncategorized/blueberry-markets-review-my-top-broker-for-2019/ "Non-US Brokers")
+ 5. Blog Supplemental: [Best Broker For Non-US Residents](https://nononsenseforex.com/uncategorized/blueberry-markets-review-my-top-broker-for-2019/ "Non-US Brokers")
 
 
 ## [Episode 11](https://nononsenseforex.podbean.com/e/ep11-journaling-done-right/ "Ep 11 - Journaling") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/forex-journal-dos-and-donts/ "Ep 11 - Blog")
@@ -115,35 +115,35 @@ Blog: <https://nononsenseforex.com/forex-blog/>
  1. Currency pair.
  2. Long or short.
  3. Amount of ***net*** **pips** gained or lost. *Net* pips since we take profit
-    about half ways throuh.
+    about half way through.
  4. A link to a screenshot of the trade, with a line drawn where entered and exited.
     Helps to evaluate *take profit, stop loss, and timing of those*.
  5. In **comments** profits or losses (expected, by following your system) don't
-    get a comment. Take note of mistakes, like getting emotional, deviating from the
+    get a comment. Take notes of mistakes, like getting emotional, deviating from the
     system, trading a news event, ignoring an indicator.
 
 
 ## [Episode 12](https://nononsenseforex.podbean.com/e/ep12-is-forex-recession-proof/ "Ep 12 - Is FX Recession-Proof?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/is-forex-a-recession-proof-investment/ "Ep 12 - Blog")
 ### Is Forex Recession-Proof?
-### Answer: *Yes **
+### Answer: *Yes\**
 
-*   The merket keep going the way it always did, even in a recession: one currency
+*   The market keeps going the way it always did, even in a recession: one currency
     vs. another.
-*   \* Due to the variety of currency pairs, FX seems intrinsically divertsified. But
+*   \* Due to the variety of currency pairs, FX seems intrinsically diversified. But
     you're only beeing paid out in one currency! Turn some of the money into other
     currencies and have them physically with you. VP has **USD, CHF and CNY in cash**!
-*   But have a plan in place for such events. Have money in different places. Buy
+*   But have a plan in place for bad events. Have money in different places. Buy
     precious metals.
 *   Stocks, Real Estate and most investments are helples to the market's doing.
-*   Ray Dalio, How The Economics Machine Works: <https://youtu.be/PHe0bXAIuk0>
-*   Peter Schiff, Making the Dollar Weak Again: <https://youtu.be/-1zENR5iW3k>
+*   Blog Supplemental: Ray Dalio, How The Economics Machine Works: <https://youtu.be/PHe0bXAIuk0>
+*   Blog Supplemental: Peter Schiff, Making the Dollar Weak Again: <https://youtu.be/-1zENR5iW3k>
 
 
 ## [Episode 13](https://nononsenseforex.podbean.com/e/ep13-trading-psychology-3-things-you-must-have-to-go-pro/ "Ep 13 - Trading Psychology") / [[Blog]](http://nononsenseforex.com/trading-psychology/forex-trading-psychology/ "Ep 13 - Blog")
 ### Trading Psychology - 3 Things You Must Have To Go Pro
 ### Answer: *See qualities below*
 
- 1. **Initiative** - be a doer.
+ 1. **Initiative** - be a maker.
  2. **Discipline** - stick to the plan, don't be emotional. Even keep your phone
     away when you trade.
  3. **Patience**
