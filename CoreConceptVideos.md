@@ -5,7 +5,7 @@ YouTube: <https://youtube.com/playlist?list=PLPqWQo6-TXfHyC12MRHK5doA5oUeGwpkV>
 
 Blog: <https://nononsenseforex.com/category/forex-basics/>
 
-## [FX Trading Strategies (Big Banks)](https://youtu.be/Lvq0t0eQOG4 "Big Banks - YouTube") / [[Blog]](https://nononsenseforex.com/forex-basics/forex-trading-strategies-beware-the-big-banks/ "Big Banks - Blog")
+## [FX Trading Strategies (Big Banks) - Ep 2](https://youtu.be/Lvq0t0eQOG4 "Big Banks - YouTube") / [[Blog]](https://nononsenseforex.com/forex-basics/forex-trading-strategies-beware-the-big-banks/ "Big Banks - Blog")
 ### Who controls the price?
 ### Answer: *The Big Banks*
 
@@ -31,7 +31,7 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     * Don't trade the news! *(t = 27:50)*
 
 
-## [Big Banks Part Two](https://youtu.be/OzEZ0i2ma8A "Big Banks II - YouTube") / [ - - - ]
+## [Big Banks Part Two - Ep 3](https://youtu.be/OzEZ0i2ma8A "Big Banks II - YouTube") / [ - - - ]
 ### Primary Video Content
 
 *   Words on success rate of [followers](https://nononsenseforex.com/testimonials/ "Testimonials") *(t=05:20)*
@@ -48,11 +48,23 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     going. There are good indicators that can tell, but we have to find them!
     VP gives hints in different places, but we've gotta find them on our own.
 
-## [The Best FX Trading Tip](https://youtu.be/orESKrXu6BM "Best Trading Tip - YouTube") / [[Blog]](https://nononsenseforex.com/forex-basics/best-forex-trading-tips/ "Best Trading Tip - Blog")
+## [The Best FX Trading Tip - Ep 4](https://youtu.be/orESKrXu6BM "Best Trading Tip - YouTube") / [[Blog]](https://nononsenseforex.com/forex-basics/best-forex-trading-tips/ "Best Trading Tip - Blog")
 ### You must know what to avoid! (things that bring your account down)
 
 *   The tip is a method used by champion chess players, best fighters and top militaries.
-* 
+*   It's about getting rid of bad habits or practises carried over from a previous profession.
+*   This reduces predictability, so you can adjust to any situation possible.
+*   **Taking away a loss is the same as getting an extra win.** So for e.g. in instead of focusing on
+    finding that additional winning indicator, why not get rid of a losing one first? *(t = 4:15)*
+*   There are three ways to tacle this *(t = 7:00):*
+*   * Stop using **tools** that don't work ([Dirty Dozen](https://youtu.be/3c6o4O8goAo)) *(t = 7:40)*
+*   * Stop trading by **emotions**, such as fear of missing out. Have confidence in your system.
+      Don't put the *statistics* against you! ***---> (t = 9:20)***
+*   * Trade with a consistent **trade management** in place. After entering a trade, know exactly
+      what to do, by following something **written out on paper**, sitting next to you. *(t = 14:30)*
+*   VP sketches out a crude version of a trade management system! *(t = 15:30)*
+
+Ep 4 to be continued
 
 END
 
