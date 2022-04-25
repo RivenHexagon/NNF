@@ -32,7 +32,7 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
 
 
 ## [Big Banks Part Two - Ep 3](https://youtu.be/OzEZ0i2ma8A "Big Banks II - YouTube") / [ - - - ]
-### Primary Video Content
+### Don't use sentiment as a real indicator
 
 *   Words on success rate of [followers](https://nononsenseforex.com/testimonials/ "Testimonials") *(t=05:20)*
 *   Recap on Big Banks' behavior (t=11:55)
@@ -48,8 +48,9 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     going. There are good indicators that can tell, but we have to find them!
     VP gives hints in different places, but we've gotta find them on our own.
 
+
 ## [The Best FX Trading Tip - Ep 4](https://youtu.be/orESKrXu6BM "Best Trading Tip - YouTube") / [[Blog]](https://nononsenseforex.com/forex-basics/best-forex-trading-tips/ "Best Trading Tip - Blog")
-### You must know what to avoid!
+### Know what to avoid - glimpses of a trade management system
 
 *   The tip is a method used by champion chess players, best fighters and top militaries.
 *   It's about getting rid of bad habits or practises carried over from a previous profession.
@@ -67,15 +68,33 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
       *(t = 14:30)*
 *   VP sketches out a crude version of a trade management system! *(t = 15:30)*
 *   * Be adjustable, means **adapt** values such as **stop loss** to a currency pair's **volatility**.
-      *Different situations/pairs need different measures! (t=16:30)*
+      *Different situations/pairs need different measures! (t = 16:30)*
 *   * **Don't chase losses!** Means, never move a **stop loss** further back if a trade doesn't go in
-      your favour, hoping it bounces back your way. *(t=18:30)*
+      your favour, hoping it bounces back your way. *(t = 18:30)*
 *   * Don't cap your wins. The small wins basically offset your losses. But the big wins fill your
       pockets. If a trade continues to go in your favour, let it go until your indicators tell you
-      to leave. *(t=19:30)*
-    * **Example** given with **stop loss, take profit, break even** and **trailing stop**. *(t=21:30)*
+      to leave. *(t = 19:30)*
+    * **Example** given with **stop loss, take profit, break even** and **trailing stop**.
+      *(t = 21:30)*
 *   Upcoming in future videos:
 *   * More trade management strategies
     * Entry strategies (indicators)
     * Learn more things to avoid
     * More trading psychology
+
+
+## [Forex Reversal Trading vs Trend Trading - Ep 5](https://youtu.be/EFYGtMThPis "Reversal vs Trend - YouTube") / [[Blog]](https://nononsenseforex.com/forex-basics/reversal-trading-or-trend-trading/ "Reversal vs Trend - Blog")
+### Reversal or Trend Trading?
+### Answer: *Trend Trading*
+
+*   Most FX traders try to **pick tops and bottoms** (at the reversals)
+*   *Buy Low, Sell High* is the worst tip in FX
+*   **Overbought** and **oversold** doesn't exist in FX. See [Big Banks](https://youtu.be/Lvq0t0eQOG4)
+    video.
+*   **Big banks** love reversal traders (easy money). *(t = 7:25)*
+*   **NNF logo** meaning: *Pawn takes King!* In reversal trading, the opposite is the case.
+*   **Reversal Tools** suck such as *Stochastics, RSI, Bollinger Bands, CCI* *(t = 12:45)*
+*   Reversal trading makes it way **too hard** to make **consistent money**. Banks are against you.
+*   Move over to **Trend Trading**! *(t = 13:50)*
+*   *Blog Supplemental is about to be added*
+
