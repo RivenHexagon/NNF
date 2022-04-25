@@ -49,22 +49,33 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     VP gives hints in different places, but we've gotta find them on our own.
 
 ## [The Best FX Trading Tip - Ep 4](https://youtu.be/orESKrXu6BM "Best Trading Tip - YouTube") / [[Blog]](https://nononsenseforex.com/forex-basics/best-forex-trading-tips/ "Best Trading Tip - Blog")
-### You must know what to avoid! (things that bring your account down)
+### You must know what to avoid!
 
 *   The tip is a method used by champion chess players, best fighters and top militaries.
 *   It's about getting rid of bad habits or practises carried over from a previous profession.
 *   This reduces predictability, so you can adjust to any situation possible.
-*   **Taking away a loss is the same as getting an extra win.** So for e.g. in instead of focusing on
+*   **Taking away a loss is the same as getting an extra win.** So for e.g. instead of focusing on
     finding that additional winning indicator, why not get rid of a losing one first? *(t = 4:15)*
 *   There are three ways to tacle this *(t = 7:00):*
-*   * Stop using **tools** that don't work ([Dirty Dozen](https://youtu.be/3c6o4O8goAo)) *(t = 7:40)*
+*   * Stop using **tools** that don't work ([Dirty Dozen](https://youtu.be/3c6o4O8goAo)) and
+      fundamental analysis alltogether.
+      *(t = 7:40)*
 *   * Stop trading by **emotions**, such as fear of missing out. Have confidence in your system.
       Don't put the *statistics* against you! ***---> (t = 9:20)***
 *   * Trade with a consistent **trade management** in place. After entering a trade, know exactly
-      what to do, by following something **written out on paper**, sitting next to you. *(t = 14:30)*
+      what to do, by following something **written out on paper**, sitting right next to you.
+      *(t = 14:30)*
 *   VP sketches out a crude version of a trade management system! *(t = 15:30)*
-
-Ep 4 to be continued
-
-END
-
+*   * Be adjustable, means **adapt** values such as **stop loss** to a currency pair's **volatility**.
+      *Different situations/pairs need different measures! (t=16:30)*
+*   * **Don't chase losses!** Means, never move a **stop loss** further back if a trade doesn't go in
+      your favour, hoping it bounces back your way. *(t=18:30)*
+*   * Don't cap your wins. The small wins basically offset your losses. But the big wins fill your
+      pockets. If a trade continues to go in your favour, let it go until your indicators tell you
+      to leave. *(t=19:30)*
+    * **Example** given with **stop loss, take profit, break even** and **trailing stop**. *(t=21:30)*
+*   Upcoming in future videos:
+*   * More trade management strategies
+    * Entry strategies (indicators)
+    * Learn more things to avoid
+    * More trading psychology
