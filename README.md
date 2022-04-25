@@ -1,6 +1,9 @@
-# NNF Strategy Essentials
+# No Nonsense Forex - The Strategy Essentials
+This files present a **condensed exerpt** of the *No Nonsense Forex* trading strategy from his **blogs** and **videos**.
 
-install ReText to propperly display or edit the papers
+Web Page: <https://nononsenseforex.com/>
+
+Install *ReText* to propperly display and edit the *markdown files*:
 
 `sudo apt install retext`
 

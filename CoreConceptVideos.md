@@ -93,7 +93,7 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     video.
 *   **Big banks** love reversal traders (easy money). *(t = 7:25)*
 *   **NNF logo** meaning: *Pawn takes King!* In reversal trading, the opposite is the case.
-*   **Reversal Tools** suck such as *Stochastics, RSI, Bollinger Bands, CCI* *(t = 12:45)*
+*   **Reversal Tools** suck, such as *Stochastics, RSI, Bollinger Bands, CCI* *(t = 12:45)*
 *   Reversal trading makes it way **too hard** to make **consistent money**. Banks are against you.
 *   Move over to **Trend Trading**! *(t = 13:50)*
 *   *Blog Supplemental is about to be added*
