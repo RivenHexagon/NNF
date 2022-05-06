@@ -5,7 +5,7 @@ Podcast: <https://nononsenseforex.com/forex-podcast/>
 
 Blog: <https://nononsenseforex.com/forex-blog/>
 
-## [Episode 3](https://nononsenseforex.podbean.com/e/ep3-which-time-frame-gives-you-the-best-results/ "Ep 3 - What time frame to trade in?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/best-time-frame-to-trade-forex/ "Ep 3 - Blog")
+## [Episode 3](https://nononsenseforex.podbean.com/e/ep3-which-time-frame-gives-you-the-best-results/ "Ep 3 - What time frame to trade in?") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/best-time-frame-to-trade-forex/ "Ep 3 - Blog")
 ### Which Time Frame Gives You The Best Results?
 
 ### Answer: *The daily chart*
@@ -27,7 +27,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     term traders and they trade all the time.
 
 
-## [Episode 4](https://nononsenseforex.podbean.com/e/ep4-how-many-pairs-should-you-trade/ "Ep 4 - How many pairs to trade?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/how-many-currency-pairs-should-i-trade/ "Ep 4 - Blog")
+## [Episode 4](https://nononsenseforex.podbean.com/e/ep4-how-many-pairs-should-you-trade/ "Ep 4 - How many pairs to trade?") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/how-many-currency-pairs-should-i-trade/ "Ep 4 - Blog")
 ### How Many Pairs Should You Trade?
 ### Answer: *All combinations of majors = 28*
 
@@ -44,7 +44,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 *   Blog Supplemental: [Stop Trading the EUR/USD Only](https://nononsenseforex.com/forex-basics/how-to-trade-the-eurusd-not-what-you-think/ "EUR/USD")
 
 
-## [Episode 5](https://nononsenseforex.podbean.com/e/ep5-how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - How much money to trade?") / [[Blog]](https://nononsenseforex.com/forex-q-and-a-podcast/how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - Blog")
+## [Episode 5](https://nononsenseforex.podbean.com/e/ep5-how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - How much money to trade?") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - Blog")
 ### How Much Money Do You Need To Trade Forex Professionally?
 ### Answer: *Trade the money of others*
 
@@ -56,7 +56,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 *   Prove to others in realtime that you can keep up under pressure.
 
 
-## [Episode 6](https://nononsenseforex.podbean.com/e/ep6-how-long-should-you-demo-trade/ "Ep 6 - How long to trade demo?") / [[Blog]](http://nononsenseforex.com/uncategorized/how-long-should-you-demo-trade-podcast-episode-6/ "Ep 6 - Blog")
+## [Episode 6](https://nononsenseforex.podbean.com/e/ep6-how-long-should-you-demo-trade/ "Ep 6 - How long to trade demo?") / [Blog](http://nononsenseforex.com/uncategorized/how-long-should-you-demo-trade-podcast-episode-6/ "Ep 6 - Blog")
 ### How Long Should You Demo Trade?
 ### Answer: *6 month sample with 6% return*
 
@@ -66,12 +66,12 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     year after year. In *FX* you have to beat that.
 
 
-## [Episode 7](https://nononsenseforex.podbean.com/e/ep7-what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Trading equipment?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Blog")
+## [Episode 7](https://nononsenseforex.podbean.com/e/ep7-what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Trading equipment?") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Blog")
 ### What Equipment Do I need To Trade Forex?
 ### Answer: *A Laptop*
 
 
-## [Episode 8](https://nononsenseforex.podbean.com/e/ep8-where-do-i-set-my-leverage/ "Ep 8 - Where to set leverage?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/best-leverage-in-forex/ "Ep 8 - Blog")
+## [Episode 8](https://nononsenseforex.podbean.com/e/ep8-where-do-i-set-my-leverage/ "Ep 8 - Where to set leverage?") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/best-leverage-in-forex/ "Ep 8 - Blog")
 ### Where Do I Set My Leverage?
 ### Answer: *20:1*
 
@@ -82,7 +82,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 *   The EU passed a law in 2018 that limits the leverage to 30:1 in FX.
 
 
-## [Episode 9](https://nononsenseforex.podbean.com/e/ep9-should-i-pay-for-indicators/ "Ep 9 - Pay for Indicators?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/are-paid-forex-indicators-worth-it/ "Ep 9 - Blog")
+## [Episode 9](https://nononsenseforex.podbean.com/e/ep9-should-i-pay-for-indicators/ "Ep 9 - Pay for Indicators?") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/are-paid-forex-indicators-worth-it/ "Ep 9 - Blog")
 ### Should I Pay For Indicators?
 ### Answer: *None of those VP uses are charged*
 
@@ -97,7 +97,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 *   The eMail list is no more, it all turned into videos.
 
 
-## [Episode 10](https://nononsenseforex.podbean.com/e/ep10-best-forex-trading-broker/ "Ep 10 - Best FX Broker") / [ - - - ]
+## [Episode 10](https://nononsenseforex.podbean.com/e/ep10-best-forex-trading-broker/ "Ep 10 - Best FX Broker") / - - -
 ### Best Forex Trading Broker
 ### Answer: *See below*
 
@@ -108,7 +108,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
  5. Blog Supplemental: [Best Broker For Non-US Residents](https://nononsenseforex.com/uncategorized/blueberry-markets-review-my-top-broker-for-2019/ "Non-US Brokers")
 
 
-## [Episode 11](https://nononsenseforex.podbean.com/e/ep11-journaling-done-right/ "Ep 11 - Journaling") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/forex-journal-dos-and-donts/ "Ep 11 - Blog")
+## [Episode 11](https://nononsenseforex.podbean.com/e/ep11-journaling-done-right/ "Ep 11 - Journaling") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/forex-journal-dos-and-donts/ "Ep 11 - Blog")
 ### Journaling Done Right = $$
 ### Answer: *Spread sheet with 5 columns:*
 
@@ -123,7 +123,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     system, trading a news event, ignoring an indicator.
 
 
-## [Episode 12](https://nononsenseforex.podbean.com/e/ep12-is-forex-recession-proof/ "Ep 12 - Is FX Recession-Proof?") / [[Blog]](http://nononsenseforex.com/forex-q-and-a-podcast/is-forex-a-recession-proof-investment/ "Ep 12 - Blog")
+## [Episode 12](https://nononsenseforex.podbean.com/e/ep12-is-forex-recession-proof/ "Ep 12 - Is FX Recession-Proof?") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/is-forex-a-recession-proof-investment/ "Ep 12 - Blog")
 ### Is Forex Recession-Proof?
 ### Answer: *Yes\**
 
@@ -139,7 +139,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 *   Blog Supplemental: Peter Schiff, Making the Dollar Weak Again: <https://youtu.be/-1zENR5iW3k>
 
 
-## [Episode 13](https://nononsenseforex.podbean.com/e/ep13-trading-psychology-3-things-you-must-have-to-go-pro/ "Ep 13 - Trading Psychology") / [[Blog]](http://nononsenseforex.com/trading-psychology/forex-trading-psychology/ "Ep 13 - Blog")
+## [Episode 13](https://nononsenseforex.podbean.com/e/ep13-trading-psychology-3-things-you-must-have-to-go-pro/ "Ep 13 - Trading Psychology") / [Blog](http://nononsenseforex.com/trading-psychology/forex-trading-psychology/ "Ep 13 - Blog")
 ### Trading Psychology - 3 Things You Must Have To Go Pro
 ### Answer: *See qualities below*
 

@@ -5,7 +5,7 @@ YouTube: <https://youtube.com/playlist?list=PLPqWQo6-TXfHyC12MRHK5doA5oUeGwpkV>
 
 Blog: <https://nononsenseforex.com/category/forex-basics/>
 
-## [FX Trading Strategies (Big Banks) - Ep 2](https://youtu.be/Lvq0t0eQOG4 "Big Banks - YouTube") / [[Blog]](https://nononsenseforex.com/forex-basics/forex-trading-strategies-beware-the-big-banks/ "Big Banks - Blog")
+## [FX Trading Strategies (Big Banks)](https://youtu.be/Lvq0t0eQOG4 "Big Banks - YouTube") - Ep 2 / [Blog](https://nononsenseforex.com/forex-basics/forex-trading-strategies-beware-the-big-banks/ "Big Banks - Blog")
 ### Who controls the price?
 ### Answer: *The Big Banks*
 
@@ -31,7 +31,7 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     * Don't trade the news! *(t = 27:50)*
 
 
-## [Big Banks Part Two - Ep 3](https://youtu.be/OzEZ0i2ma8A "Big Banks II - YouTube") / [ - - - ]
+## [Big Banks Part Two](https://youtu.be/OzEZ0i2ma8A "Big Banks II - YouTube") - Ep 3 / - - -
 ### Don't use sentiment as a real indicator
 
 *   Words on success rate of [followers](https://nononsenseforex.com/testimonials/ "Testimonials") *(t=05:20)*
@@ -49,7 +49,7 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     VP gives hints in different places, but we've gotta find them on our own.
 
 
-## [The Best FX Trading Tip - Ep 4](https://youtu.be/orESKrXu6BM "Best Trading Tip - YouTube") / [[Blog]](https://nononsenseforex.com/forex-basics/best-forex-trading-tips/ "Best Trading Tip - Blog")
+## [The Best FX Trading Tip](https://youtu.be/orESKrXu6BM "Best Trading Tip - YouTube") - Ep 4 / [Blog](https://nononsenseforex.com/forex-basics/best-forex-trading-tips/ "Best Trading Tip - Blog")
 ### Know what to avoid - glimpses of a trade management system
 
 *   The tip is a method used by champion chess players, best fighters and top militaries.
@@ -83,7 +83,7 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     * More trading psychology
 
 
-## [Forex Reversal Trading vs Trend Trading - Ep 5](https://youtu.be/EFYGtMThPis "Reversal vs Trend - YouTube") / [[Blog]](https://nononsenseforex.com/forex-basics/reversal-trading-or-trend-trading/ "Reversal vs Trend - Blog")
+## [Forex Reversal Trading vs Trend Trading](https://youtu.be/EFYGtMThPis "Reversal vs Trend - YouTube") - Ep 5 / [Blog](https://nononsenseforex.com/forex-basics/reversal-trading-or-trend-trading/ "Reversal vs Trend - Blog")
 ### Reversal or Trend Trading?
 ### Answer: *Trend Trading*
 
@@ -97,4 +97,10 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
 *   Reversal trading makes it way **too hard** to make **consistent money**. Banks are against you.
 *   Move over to **Trend Trading**! *(t = 13:50)*
 *   *Blog Supplemental is about to be added*
+
+
+## [How to Trade the EUR USD](https://youtu.be/vVMMkmYYU4U "EUR/USD - YouTube") - Ep 7 / [Blog](https://nononsenseforex.com/forex-basics/how-to-trade-the-eurusd-not-what-you-think/ "EUR/USD - Blog")
+### How to trade EUR/USD?
+### Answer: *bla*
+
 
