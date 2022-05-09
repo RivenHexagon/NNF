@@ -1,9 +1,10 @@
 #NNF strategy guide line
 
-Essence:
+##Essentials on NNF materials
 
-* <https://github.com/RivenHexagon/NNF/blob/main/CoreConceptVideos.md>
-* <https://github.com/RivenHexagon/NNF/blob/main/PodCast-Ep3-13.md>
+* Core Concept Videos: <https://github.com/RivenHexagon/NNF/blob/main/CoreConceptVideos.md>
+* PodCast: <https://github.com/RivenHexagon/NNF/blob/main/PodCast-Ep3-13.md>
+* Money Management: 
 
 Web Page: <https://nononsenseforex.com/>
 
