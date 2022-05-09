@@ -1,6 +1,6 @@
-#NNF strategy guide line
+# NNF strategy guide line
 
-##Essential Papers on NNF materials
+## Essential Papers on NNF materials
 
 * **PodCast** (step 2):  
   <https://github.com/RivenHexagon/NNF/blob/main/PodCast-Ep3-13.md>
@@ -9,7 +9,7 @@
 * **Money Management** (what's next 1):  
   <https://github.com/RivenHexagon/NNF/blob/main/MoneyManagement.md>
 
-##Learn the NNF Strategy in this order
+## Learn the NNF Strategy in this order
 
 * ### Step One
 Read trough **babypips.com**: <https://www.babypips.com/learn/forex>
