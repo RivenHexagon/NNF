@@ -17,6 +17,7 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     many are long or short, if they sit above or below price and how big those
     are *(t = 06:30)*. The banks move the prices the **opposite** way of the popular
     positions. An extreme example is the EUR/CHF crash in Jan 2015 *(t =13:30)*.
+*   Forex is a **rigged game**, but **we can profit** from that knowledge.
 *   **IG** is a big trading company that **tells where the positions of their traders**
     are. They are a **sample size** big enough to assume that this holds true for the
     rest of the trading world. *(t = 19:30)*. It's called the IG Client Sentiment
@@ -25,14 +26,14 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     popular positions. This happens **especially on the USD pairs**, since the USD
     is the most popular traded currency.
 *   What we can do, what to avoid *(t = 25:00)*
-    * Don't use the same tools everyone else does
-      (e.g. [Dirty Dozen](https://youtu.be/3c6o4O8goAo)).
-    * Trade more often pairs other than the USD pairs, e.g. GBP/JPY. *(t = 26:20)*
-    * Don't trade the news! *(t = 27:50)*
+    * **Don't** use the **same tools** everyone else does (VP's elimination rule,
+      e.g. [Dirty Dozen](https://youtu.be/3c6o4O8goAo)).
+    * **Trade** more often **pairs other than the USD** pairs, e.g. GBP/JPY. *(t = 26:20)*
+    * **Don't** trade the **news**! *(t = 27:50)*
 
 
 ## [Big Banks Part Two](https://youtu.be/OzEZ0i2ma8A "Big Banks II - YouTube") - Ep 3 / - - -
-### Don't use sentiment as a real indicator
+### The gist of it is: Don't use sentiment as a real indicator
 
 *   Words on success rate of [followers](https://nononsenseforex.com/testimonials/ "Testimonials") *(t=05:20)*
 *   Recap on Big Banks' behavior (t=11:55)
@@ -97,6 +98,24 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
 *   Reversal trading makes it way **too hard** to make **consistent money**. Banks are against you.
 *   Move over to **Trend Trading**! *(t = 13:50)*
 *   *Blog Supplemental is about to be added*
+
+
+## [Dirty Dozen](https://youtu.be/3c6o4O8goAo "Dirty Dozen - YouTube") - Ep 6 / - - -
+### 12 Technical Analysis Tools to avoid:
+
+*   Trend lines
+*   Support and Resistance lines
+*   RSI indicator
+*   Bollinger Bands
+*   Stochastic oscillator
+*   Moving Average Crossovers
+*   Fibonacci
+*   CCI
+*   Japanese Candlesticks
+*   Chart Patterns
+*   Price Levels
+*   Fundamental Analysis
+*   Some of em are super **old** and **not** even made **for FX**!
 
 
 ## [How to Trade the EUR USD](https://youtu.be/vVMMkmYYU4U "EUR/USD - YouTube") - Ep 7 / [Blog](https://nononsenseforex.com/forex-basics/how-to-trade-the-eurusd-not-what-you-think/ "EUR/USD - Blog")
