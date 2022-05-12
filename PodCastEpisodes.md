@@ -64,9 +64,9 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     blow-out or major drawdown.
 *   You have to **consitently** make a **profit** with your system in that **last 6 month**.
 *   The *american* ***stock market*** (S&P 500) on average does just under **12 % rate of return**
-    year after year. In FX you have to **beat that**.
-*   *BlogSup:* Nerd out new tools and tweeks to your syste in demo trading'
-*   *BlogSup:* After that you trade with very small amount and repeat this trial.
+    year after year. In **FX** you have to **beat that**.
+*   *BlogSup:* **Nerd out** new **tools** and tweek your system in demo trading.
+*   *BlogSup:* After that you trade with **very small amount** and repeat this trial.
 *   *BlogSup:* **Emotions** will be **intense** - still: no matter what, **don't deviate**
     from your system!
 
