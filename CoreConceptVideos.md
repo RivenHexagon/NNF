@@ -33,7 +33,7 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
 
 
 ## [Big Banks Part Two](https://youtu.be/OzEZ0i2ma8A "Big Banks II - YouTube") - Ep 3 / - - -
-### The gist of it is: Don't use sentiment as a real indicator
+### The gist of it: Don't use sentiment as a real indicator
 
 *   Words on success rate of [followers](https://nononsenseforex.com/testimonials/ "Testimonials") *(t=05:20)*
 *   Recap on Big Banks' behavior (t=11:55)

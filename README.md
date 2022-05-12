@@ -16,6 +16,8 @@ NNF Web Page: <https://nononsenseforex.com/>
 ## Learn the NNF Strategy in this order
 
 * **Step One**  
+  This is not Forex 101. This is Forex 201. You will need to **learn the basics** how to trade this
+  market first.  
   Read trough **babypips.com**: <https://www.babypips.com/learn/forex>
 
 * **Step Two**  
@@ -24,7 +26,7 @@ There is also a **[blog](https://nononsenseforex.com/forex-blog/page/9/ "podcast
 gives some supplemental information.
 
 * **Step Three**  
-Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6- TXfHyC12MRHK5doA5oUeGwpkV "youtube")** episodes **2 to 7** (*Big Banks* through *EUR/USD*). It is also comlemented by a **[blog](https://nononsenseforex.com/category/forex-basics/ "core concept blog") version**.
+Follow the ** Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6-TXfHyC12MRHK5doA5oUeGwpkV "youtube") ** episodes 2 to 7 (*Big Banks* through *EUR/USD*). It is also comlemented by a **[blog](https://nononsenseforex.com/category/forex-basics/ "core concept blog") version**.
 
 * ### What's next
 * * [Money Management](https://www.youtube.com/playlist?list=PLPqWQo6-TXfE8G_Mmxow0znSSoWTu44e7 "YouTube playlist")
