@@ -91,13 +91,13 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
 *   Most FX traders try to **pick tops and bottoms** (at the reversals)
 *   *Buy Low, Sell High* is the worst tip in FX
 *   **Overbought** and **oversold** doesn't exist in FX. See [Big Banks](https://youtu.be/Lvq0t0eQOG4)
-    video.
+    video. This isn't stock trading!
 *   **Big banks** love reversal traders (easy money). *(t = 7:25)*
+*   *BlogSup:* *Banks **chasing reversal traders** or **news events** makes currencies trend.
 *   **NNF logo** meaning: *Pawn takes King!* In reversal trading, the opposite is the case.
 *   **Reversal Tools** suck, such as *Stochastics, RSI, Bollinger Bands, CCI* *(t = 12:45)*
 *   Reversal trading makes it way **too hard** to make **consistent money**. Banks are against you.
 *   Move over to **Trend Trading**! *(t = 13:50)*
-*   *Blog Supplemental is about to be added*
 
 
 ## [Dirty Dozen](https://youtu.be/3c6o4O8goAo "Dirty Dozen - YouTube") - Ep 6 / - - -
@@ -120,6 +120,6 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
 
 ## [How to Trade the EUR USD](https://youtu.be/vVMMkmYYU4U "EUR/USD - YouTube") - Ep 7 / [Blog](https://nononsenseforex.com/forex-basics/how-to-trade-the-eurusd-not-what-you-think/ "EUR/USD - Blog")
 ### How to trade EUR/USD?
-### Answer: *bla*
+### Answer: *squirrels*
 
 

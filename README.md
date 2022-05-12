@@ -7,7 +7,7 @@ NNF Web Page: <https://nononsenseforex.com/>
 ## Essential Papers on NNF materials
 
 * **PodCast** (step 2):  
-  <https://github.com/RivenHexagon/NNF/blob/main/PodCast-Ep3-13.md>
+  <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
 * **Core Concept** Videos (step 3):  
   <https://github.com/RivenHexagon/NNF/blob/main/CoreConceptVideos.md>
 * **Money Management** (what's next 1):  

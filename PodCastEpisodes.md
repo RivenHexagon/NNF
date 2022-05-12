@@ -1,5 +1,5 @@
 
-# NNF Essentials on PodCast Episodes 3 - 13
+# NNF Essentials on PodCast Episodes
 
 Podcast: <https://nononsenseforex.com/forex-podcast/>
 
@@ -60,10 +60,15 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 ### How Long Should You Demo Trade?
 ### Answer: *6 month sample with 6% return*
 
-*   Say you start with 50 k. Within the next 6 month come up with 53 k with no
+*   Say you start with 50 k. Within the next 6 month come up with 53 k **(6% return)** with no
     blow-out or major drawdown.
-*   The *american stock market* on average does just under **12 %** rate of return
-    year after year. In *FX* you have to beat that.
+*   You have to **consitently** make a **profit** with your system in that **last 6 month**.
+*   The *american* ***stock market*** (S&P 500) on average does just under **12 % rate of return**
+    year after year. In FX you have to **beat that**.
+*   *BlogSup:* Nerd out new tools and tweeks to your syste in demo trading'
+*   *BlogSup:* After that you trade with very small amount and repeat this trial.
+*   *BlogSup:* **Emotions** will be **intense** - still: no matter what, **don't deviate**
+    from your system!
 
 
 ## [Episode 7](https://nononsenseforex.podbean.com/e/ep7-what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Trading equipment?") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/what-equipment-do-i-need-to-trade-forex/ "Ep 7 - Blog")
