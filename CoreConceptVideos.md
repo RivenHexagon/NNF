@@ -35,6 +35,10 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
 ## [Big Banks Part Two](https://youtu.be/OzEZ0i2ma8A "Big Banks II - YouTube") - Ep 3 / - - -
 ### The gist of it: Don't use sentiment as a real indicator
 
+*   **Don't use** sentiment indicators **as a real indicator** in your algoithm *(t=28:55)*.
+    Because it doesn't matter where traders currently are, but where they are
+    going. There are good indicators that can tell, but we have to find them!
+    VP gives hints in different places, but we've gotta find them on our own.
 *   Words on success rate of [followers](https://nononsenseforex.com/testimonials/ "Testimonials") *(t=05:20)*
 *   Recap on Big Banks' behavior (t=11:55)
 *   There are two *Sentiment Indicators (t=20:05)*
@@ -44,10 +48,6 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
 *   * Banks limited influence on **metals**, such as gold and silver *(t=24:30)*
 *   * Banks influence on **stocks** *(t=26:00)*
 *   * **Crypto** isn't "traded". Allmost all positions are long. *(t=28:25)*
-*   **Don't use** sentiment indicators **as a real indicator** in your algoithm *(t=28:55)*.
-    Because it doesn't matter where traders currently are, but where they are
-    going. There are good indicators that can tell, but we have to find them!
-    VP gives hints in different places, but we've gotta find them on our own.
 
 
 ## [The Best FX Trading Tip](https://youtu.be/orESKrXu6BM "Best Trading Tip - YouTube") - Ep 4 / [Blog](https://nononsenseforex.com/forex-basics/best-forex-trading-tips/ "Best Trading Tip - Blog")

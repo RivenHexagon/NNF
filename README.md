@@ -36,7 +36,7 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
 
 **Go Get it!**
 
-Install *ReText* to propperly display and edit the *markdown files* offline:
+Install *ReText* to propperly display and edit the *markdown files* offline if desired:
 
 `sudo apt install retext`
 
