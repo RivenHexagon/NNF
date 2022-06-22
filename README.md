@@ -6,26 +6,26 @@ NNF Web Page: <https://nononsenseforex.com/>
 
 ## Essential Papers on NNF materials
 
-* **PodCast** (step 2):  
+* **PodCast** (step 2):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
-* **Core Concept** Videos (step 3):  
+* **Core Concept** Videos (step 3):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/CoreConceptVideos.md>
-* **Money Management** (what's next 1):  
+* **Money Management** (what's next 1):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/MoneyManagement.md>
 
 ## Learn the NNF Strategy in this order
 
-* **Step One**  
+* **Step One**<br>
   This is not Forex 101. This is Forex 201. You will need to **learn the basics** how to trade this
-  market first.  
+  market first.<br>
   Read trough **babypips.com**: <https://www.babypips.com/learn/forex>
 
-* **Step Two**  
+* **Step Two**<br>
 Follow the **[Podcast](https://nononsenseforex.com/forex-podcast/)** episodes **3 to 13** in order.
 There is also a **[blog](https://nononsenseforex.com/forex-blog/page/9/ "podcast blog") version** that
 gives some supplemental information.
 
-* **Step Three**  
+* **Step Three**<br>
 Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6-TXfHyC12MRHK5doA5oUeGwpkV "youtube")** episodes 2 to 7 (*Big Banks* through *EUR/USD*). It is also comlemented by a **[blog](https://nononsenseforex.com/category/forex-basics/ "core concept blog") version**.
 
 * ### What's next
@@ -35,7 +35,6 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
 
 
 **Go Get it!**
-
 Install *ReText* to propperly display and edit the *markdown files* offline if desired:
 
 `sudo apt install retext`
