@@ -153,3 +153,24 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     away when you trade.
  3. **Patience**
 
+
+## [Episode 18](https://nononsenseforex.podbean.com/e/ep18-exit-indicators-and-time/ "Ep 18 - Exit Indicators and Time") / - - -
+### Exit Indicators and Time
+
+
+## [Episode 20](https://nononsenseforex.podbean.com/e/ep20-monthly-returns-whats-good/ "Ep 20 - Monthly Returns") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/monthly-returns-in-forex/ "Ep 20 - Blog")
+### Monthly Returns In Forex - What's Good?
+
+
+## [Episode 25](https://nononsenseforex.podbean.com/e/ep25-adding-to-a-winning-trade/ "Ep 25 - Adding On") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/scaling-in/ "Ep 25 - Blog")
+### Adding On To A Winning Trade
+
+
+## [Episode 40](https://nononsenseforex.podbean.com/e/ep40-dollar-cost-averaging-and-martingale/ "Ep 40 - Cost Averaging") / [Blog](https://nononsenseforex.com/uncategorized/reverse-labouchere/ "Ep 40 - Blog")
+### Dollar Cost Averaging and Martingale
+
+
+## [Episode 72](https://nononsenseforex.podbean.com/e/ep72-a-common-mistake/ "Ep 72 - Risk Split") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/dont-split-your-risk/ "Ep 72 - Blog")
+### Don't Split Your Risk (A Common Mistake)
+
+END
