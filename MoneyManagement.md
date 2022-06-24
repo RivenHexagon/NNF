@@ -1,6 +1,6 @@
 
 # NNF Essentials on Money Management
-## Strategy Guide Line - What's next 1
+## Strategy Guideline - What's next 1
 
 YouTube: <https://www.youtube.com/playlist?list=PLPqWQo6-TXfE8G_Mmxow0znSSoWTu44e7>
 
@@ -101,8 +101,8 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
 ## [MM 6](https://youtu.be/tw_w-TfhCNM "Risk Ratios - YouTube") / [Blog](https://nononsenseforex.com/trade-management/risk-reward-ratios/ "Risk Ratios - Blog")
 ### Risk Reward Ratios - Should You Use Them?
 *   VP's short answer: **Don't** ever use **Risk to Revard Ratios** such as *R=2:1* or *R=3:1*!
-*   **R2R** means you **take profit** at *TP = R x SL*, where Ratio *R* is 2 or 3 and *SL* is your
-    **stop loss**. *(t = 5:30)*
+*   This means you **take profit** at *TP = R x SL*, where *R* is the R2R Ratio (2 or 3) and *SL*
+    is your **stop loss**. *(t = 5:30)*
 *   For e.g. if *SL = 80 pips*, with *R = 2*, you either **win 160** pips **or** you **lose 80** pips.
     There is **no in between**!
 *   Common **mistake** is to find a **support line**, figure the **take profit first** and the

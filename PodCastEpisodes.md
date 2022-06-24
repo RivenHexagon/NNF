@@ -1,6 +1,6 @@
 
 # NNF Essentials on PodCast Episodes 3 - 13
-## Strategy Guide Line - Step 2
+## Strategy Guideline - Step 2
 
 Podcast: <https://nononsenseforex.com/forex-podcast/>
 
