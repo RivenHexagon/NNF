@@ -13,14 +13,14 @@ Blog: <https://nononsenseforex.com/category/trade-management/>
 *   If you enter a trade by **flipping a coin** and your **MM is right**, you still
     **make money** in the long turn.
 *   **The Big 3** in order of importance:
-*   * Money Management
-*   * Trading Psychology
-*   * Trade Entries
+    * Money Management
+    * Trading Psychology
+    * Trade Entries
 *   **MM is** about *(t = 5:00)*
-*   * What to **risk** (% of account)
-*   * How many **pips** to risk
-*   * Managing a trade
-*   * Indicatros involved
+    * What to **risk** (% of account)
+    * How many **pips** to risk
+    * Managing a trade
+    * Indicatros involved
 
 
 ## [MM 2](https://youtu.be/086ozcHDZPw "ATR - YouTube") / [Blog](https://nononsenseforex.com/indicators/the-worlds-best-forex-indicator/ "ATR - Blog")
@@ -60,10 +60,10 @@ Technical details at Investopedia: <https://www.investopedia.com/terms/a/atr.asp
 *   It doesn't mean you always lose the full 2%. Only if it **hits** your **stop-loss**
     indicating the 2%. *(t = 9:30)*
 *   Starts explaining the structure *(t = 10:30)*
-*   * **Stop loss** should be *1.5 x ATR* away **from** where the **price** of a pair is **now**.<br>
+    * **Stop loss** should be *1.5 x ATR* away **from** where the **price** of a pair is **now**.<br>
     If ATR is 80 pips, the Stop Loss sould be 120 pips away, when you **first enter** a trade.
     *(t = 12:00)*
-*   * The actual **value** of a **pip** *Vp* in USD or EUR is: *Vp = R / (1.5 * ATR).* Where *R* is
+    * The actual **value** of a **pip** *Vp* in USD or EUR is: *Vp = R / (1.5 * ATR).* Where *R* is
     the risk in USD or EUR. *(t = 13:00)*<br>
     For e.g. 2% of a 50'000 € trading account is as risk of R = 1'000 €.
 *   **VP shows** an **example** on a **demo account**, doing the **math by hand**. *(t = 14:20)*
@@ -110,10 +110,10 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
     But if the price moves even further, the **door** is already **closed** for every
     **additional profit**! *(t = 8:00)*
 *   This are **three mistakes** in one:
-*   * Using a **Dirty Dozen** tool to determine TP. *(t = 11:40)*
-*   * Not **scaling out**, by not using a **trailing SL**, in order to **ensure break-even**.
+    * Using a **Dirty Dozen** tool to determine TP. *(t = 11:40)*
+    * Not **scaling out**, by not using a **trailing SL**, in order to **ensure break-even**.
     *(t = 12:50)*
-*   * **Capping wins** beyond TP. Instead **keep** for e.g. 50 % of **profit in** the game.
+    * **Capping wins** beyond TP. Instead **keep** for e.g. 50 % of **profit in** the game.
     *(t = 15:10)*
 *   **Conclusion:** By ensuring break-even, the small wins **cancel out** your **losses**.
     The **wins beyond** break-even are your **final profits** at the end of the year! *(t = 16:30)*
