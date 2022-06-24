@@ -1,11 +1,12 @@
 
 # NNF Essentials on Money Management
+## Strategy Guide Line - What's next 1
 
 YouTube: <https://www.youtube.com/playlist?list=PLPqWQo6-TXfE8G_Mmxow0znSSoWTu44e7>
 
 Blog: <https://nononsenseforex.com/category/trade-management/>
 
-## [MM 1](https://youtu.be/aEORce6dZZI "MM Intro - YouTube") - Money Management / - - -
+## [MM 1](https://youtu.be/aEORce6dZZI "MM Intro - YouTube") / - - -
 ### Money Management is the most important thing in FX
 
 *   **Money Managemant** makes your trading **account** go **up** or **down**.
@@ -22,8 +23,8 @@ Blog: <https://nononsenseforex.com/category/trade-management/>
 *   * Indicatros involved
 
 
-## [MM 2](https://youtu.be/086ozcHDZPw "ATR - YouTube") - ATR / [Blog](https://nononsenseforex.com/indicators/the-worlds-best-forex-indicator/ "ATR - Blog")
-### The ATR Is The World’s Best Forex Indicator
+## [MM 2](https://youtu.be/086ozcHDZPw "ATR - YouTube") / [Blog](https://nononsenseforex.com/indicators/the-worlds-best-forex-indicator/ "ATR - Blog")
+### ATR Is The World’s Best Forex Indicator
 Technical details at Investopedia: <https://www.investopedia.com/terms/a/atr.asp>
 
 *   There are over **10'000** indicators. **ATR** is the **most important** of all.
@@ -51,8 +52,8 @@ Technical details at Investopedia: <https://www.investopedia.com/terms/a/atr.asp
 *   *BlogSup:* Additional info on ATR: <https://stonehillforex.com/?s=atr>
 
 
-## [MM 3](https://youtu.be/bqWLFNpK6eg "Risk - YouTube") - Risk Management / [Blog](https://nononsenseforex.com/trade-management/forex-risk-management/ "Risk - Blog")
-### A structure to follow
+## [MM 3](https://youtu.be/bqWLFNpK6eg "Risk - YouTube") / [Blog](https://nononsenseforex.com/trade-management/forex-risk-management/ "Risk - Blog")
+### Risk Management - A structure to follow
 *   If a $50 k account goes **10 k down** to $40 k, it needs a **25 %** return to **break even!**
 *   **Risk 2%** of your entire trading **account** on **every** trade.  It's the most you can lose
     on a trade. *(t = 9:10)*
@@ -87,54 +88,69 @@ Technical details at Investopedia: <https://www.investopedia.com/terms/a/atr.asp
     trades involving the **same** currency. *(t = 26:40)*
 
 
-## [MM 4 (Podcast Ep 8)](https://nononsenseforex.podbean.com/e/ep8-where-do-i-set-my-leverage/ "Ep 8 - Where to set leverage?") - Leverage and Margin / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/best-leverage-in-forex/ "Ep 8 - Blog")
+## [MM 4 (Podcast Ep 8)](https://nononsenseforex.podbean.com/e/ep8-where-do-i-set-my-leverage/ "Ep 8 - Where to set leverage?") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/best-leverage-in-forex/ "Ep 8 - Blog")
 ### Leverage and Margin in Forex Trading
 See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
 
 
-## [MM 5 (Podcast Ep 11)](https://nononsenseforex.podbean.com/e/ep11-journaling-done-right/ "Ep 11 - Journaling") - Journaling Done Right / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/forex-journal-dos-and-donts/ "Ep 11 - Blog")
-### Forex Journal Do's and Don'ts (Journaling Done Right)
+## [MM 5 (Podcast Ep 11)](https://nononsenseforex.podbean.com/e/ep11-journaling-done-right/ "Ep 11 - Journaling") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/forex-journal-dos-and-donts/ "Ep 11 - Blog")
+### Forex Journal Do and Don't / Journaling Done Right
 See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
 
 
-## [MM 6](https://youtu.be/tw_w-TfhCNM "Risk Ratios - YouTube") - Risk Ratios / [Blog](https://nononsenseforex.com/trade-management/risk-reward-ratios/ "Risk Ratios - Blog")
-### Risk Reward Ratios – Should You Use Them?
+## [MM 6](https://youtu.be/tw_w-TfhCNM "Risk Ratios - YouTube") / [Blog](https://nononsenseforex.com/trade-management/risk-reward-ratios/ "Risk Ratios - Blog")
+### Risk Reward Ratios - Should You Use Them?
+*   VP's short answer: **Don't** ever use **Risk to Revard Ratios** such as *R=2:1* or *R=3:1*!
+*   **R2R** means you **take profit** at *TP = R x SL*, where Ratio *R* is 2 or 3 and *SL* is your
+    **stop loss**. *(t = 5:30)*
+*   For e.g. if *SL = 80 pips*, with *R = 2*, you either **win 160** pips **or** you **lose 80** pips.
+    There is **no in between**!
+*   Common **mistake** is to find a **support line**, figure the **take profit first** and the
+    **stop loss depending** on the **ratio**. If the trade goes in your favour, you take profit.
+    But if the price moves even further, the **door** is already **closed** for every
+    **additional profit**! *(t = 8:00)*
+*   This are **three mistakes** in one:
+*   * Using a **Dirty Dozen** tool to determine TP. *(t = 11:40)*
+*   * Not **scaling out**, by not using a **trailing SL**, in order to **ensure break-even**.
+    *(t = 12:50)*
+*   * **Capping wins** beyond TP. Instead **keep** for e.g. 50 % of **profit in** the game.
+    *(t = 15:10)*
+*   **Conclusion:** By ensuring break-even, the small wins **cancel out** your **losses**.
+    The **wins beyond** break-even are your **final profits** at the end of the year! *(t = 16:30)*
+*   VP is giving a **demonstration** using the **Aroon Up & Down** indicator. *(t = 17:40)*
+*   See video [MM 9](https://youtu.be/tJBmVhefMeE "Trade Management - YouTube") on Scaling Out.
 
 
-## [MM 7 (Podcast Ep 18)](https://nononsenseforex.podbean.com/e/ep18-exit-indicators-and-time/ "Ep 18 - Exit Indicators") - Exit Indicators and Time / - - -
+## [MM 7 (Podcast Ep 18)](https://nononsenseforex.podbean.com/e/ep18-exit-indicators-and-time/ "Ep 18 - Exit Indicators") / - - -
 ### Exit Indicators and Time
-See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
 
 
-## [MM 8](https://youtu.be/GzvxXS2OUvM "Heiken Ashi - YouTube") - Heiken Ashi / [Blog](https://nononsenseforex.com/indicators/heikin-ashi-trading-strategy/ "Heiken Ashi - Blog")
+## [MM 8](https://youtu.be/GzvxXS2OUvM "Heiken Ashi - YouTube") / [Blog](https://nononsenseforex.com/indicators/heikin-ashi-trading-strategy/ "Heiken Ashi - Blog")
 ### Heiken Ashi Trading Strategy - Forget What You've Heard
 
 
-## [MM 9](https://youtu.be/tJBmVhefMeE "Trade Management - YouTube") - Trade Management / [Blog](https://nononsenseforex.com/trade-management/forex-money-management-scaling-out/ "Trade Management - Blog")
-### Forex Trade Management - Scale Out!
+## [MM 9](https://youtu.be/tJBmVhefMeE "Trade Management - YouTube") / [Blog](https://nononsenseforex.com/trade-management/forex-money-management-scaling-out/ "Trade Management - Blog")
+### Trade Management - Scale Out!
 
 
-## [MM 10 (Podcast Ep 20)](https://nononsenseforex.podbean.com/e/ep20-monthly-returns-whats-good/ "Ep 20 - Monthly Returns") - Monthly Returns in Forex / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/monthly-returns-in-forex/ "Ep 20 - Blog")
+## [MM 10 (Podcast Ep 20)](https://nononsenseforex.podbean.com/e/ep20-monthly-returns-whats-good/ "Ep 20 - Monthly Returns") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/monthly-returns-in-forex/ "Ep 20 - Blog")
 ### Monthly Returns in Forex - What’s Good?
-See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
 
 
-## [MM 11 (Podcast Ep 25)](https://nononsenseforex.podbean.com/e/ep25-adding-to-a-winning-trade/ "Ep 25 - Adding On") - Adding On / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/scaling-in/ "Ep 25 - Blog")
+## [MM 11 (Podcast Ep 25)](https://nononsenseforex.podbean.com/e/ep25-adding-to-a-winning-trade/ "Ep 25 - Adding On") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/scaling-in/ "Ep 25 - Blog")
 ### Adding On To A Winning Trade
-See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
 
 
-## [MM 12 (Podcast Ep 40)](https://nononsenseforex.podbean.com/e/ep40-dollar-cost-averaging-and-martingale/ "Ep 40 - Cost Averaging") - Cost Averaging / [Blog](https://nononsenseforex.com/uncategorized/reverse-labouchere/ "Ep 40 - Blog")
-### Dollar Cost Averaging and Martingale
-See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
+## [MM 12 (Podcast Ep 40)](https://nononsenseforex.podbean.com/e/ep40-dollar-cost-averaging-and-martingale/ "Ep 40 - Cost Averaging") / [Blog](https://nononsenseforex.com/uncategorized/reverse-labouchere/ "Ep 40 - Blog")
+### Cost Averaging and Martingale
 
 
-## [MM 13](https://youtu.be/Bsc_1GwKINM "Trailing Stops - YouTube") - Trailing Stops / - - -
+## [MM 13](https://youtu.be/Bsc_1GwKINM "Trailing Stops - YouTube") / - - -
 ### Trailing Stops In Forex
 
 
-## [MM 14 (Podcast Ep 72)](https://nononsenseforex.podbean.com/e/ep72-a-common-mistake/ "Ep 72 - Risk Split") - Risk Split / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/dont-split-your-risk/ "Ep 72 - Blog")
+## [MM 14 (Podcast Ep 72)](https://nononsenseforex.podbean.com/e/ep72-a-common-mistake/ "Ep 72 - Risk Split") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/dont-split-your-risk/ "Ep 72 - Blog")
 ### Don't Split Your Risk (A Common Mistake)
-See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
+
 
 END

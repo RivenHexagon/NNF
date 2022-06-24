@@ -4,15 +4,6 @@ This files present a **condensed exerpt** of the *No Nonsense Forex* trading str
 
 NNF Web Page: <https://nononsenseforex.com/>
 
-## Essential Papers on NNF materials
-
-* **PodCast** (step 2):<br>
-  <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
-* **Core Concept** Videos (step 3):<br>
-  <https://github.com/RivenHexagon/NNF/blob/main/CoreConceptVideos.md>
-* **Money Management** (what's next 1):<br>
-  <https://github.com/RivenHexagon/NNF/blob/main/MoneyManagement.md>
-
 ## Learn the NNF Strategy in this order
 
 * **Step One**<br>
@@ -33,6 +24,14 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
 * * [Trade Psychology](https://www.youtube.com/playlist?list=PLPqWQo6-TXfHvb2XDgU-WgFIubbo3gBVR "YouTube playlist")
 * * [Technical Analysis](https://www.youtube.com/playlist?list=PLPqWQo6-TXfE_EEypsX7-by2qub_S09WN "YouTube playlist") (Trade Entries)
 
+## Essential Papers on NNF materials
+
+* **PodCast** (step 2):<br>
+  <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
+* **Core Concept** Videos (step 3):<br>
+  <https://github.com/RivenHexagon/NNF/blob/main/CoreConceptVideos.md>
+* **Money Management** (what's next 1):<br>
+  <https://github.com/RivenHexagon/NNF/blob/main/MoneyManagement.md>
 
 **Go Get it!**
 Install *ReText* to propperly display and edit the *markdown files* offline if desired:
