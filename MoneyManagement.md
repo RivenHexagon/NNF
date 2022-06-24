@@ -37,9 +37,9 @@ Technical details at Investopedia: <https://www.investopedia.com/terms/a/atr.asp
     ***pips!*** *(t = 7:50)*
 *   **Example:** One **lot** on the EUR/USD = $10 **per pip**, which is the **pip value**.
 *   **Measure** the ATR *during the week* at the **end** of a **trading day** - about
-    20 to 30 min **before** the *daily* chart **candle closes**. After closing, it will **thorw off**
-    the **equation**. *(t = 9:30), (t = 10:50)*
-*   *BlogSup:* Hence, VP **enters** trades **shortly before the end** of the trading day, after
+    20 to 30 min **before** the *daily* chart **candle closes**. After **closing**, it will
+    **thorw off** the **equation**. *(t = 9:30), (t = 10:50)*
+*   *Blog:* Hence, VP **enters** trades **shortly before the end** of the trading day, after
     reading the ATR.
 *   **Ignore** the ATR plot **line**, just **focus** on the current **value**, in the corner.
     (On *USD/JPY* 0.6570 means 65 pips, 1.13 are 113 pips!)
@@ -49,7 +49,7 @@ Technical details at Investopedia: <https://www.investopedia.com/terms/a/atr.asp
     **trade** *pound/kiwi* a **third less**, *$2/pip*. *(t = 12:20)*
 *   That's how the **ATR manages** your **risk**. *(t = 13:10)*
 *   With the ATR you can **trade** basically **any pair** with ease. *(t = 14:10)*
-*   *BlogSup:* Additional info on ATR: <https://stonehillforex.com/?s=atr>
+*   *Blog:* Additional info on ATR: <https://stonehillforex.com/?s=atr>
 
 
 ## [MM 3](https://youtu.be/bqWLFNpK6eg "Risk - YouTube") / [Blog](https://nononsenseforex.com/trade-management/forex-risk-management/ "Risk - Blog")
@@ -86,6 +86,9 @@ Technical details at Investopedia: <https://www.investopedia.com/terms/a/atr.asp
     short and *USD/JPY* long. This would put **6%** of your accout at risk on the USD! *(t = 24:50)*
 *   **Alternatively** you just choose **one pair** only **or** you go **half** the risk on **two**
     trades involving the **same** currency. *(t = 26:40)*
+*   *Blog:* VP prefers **option one** and gives a more **precise approach**: If the choice is for
+    e.g. between going long *AUD/USD* and *AUD/CAD*. Look at **other** *USD* and *CAD* **pairs**
+    and see how they do, to make your **choice**. This way you have a **solid approach**.
 
 
 ## [MM 4 (Podcast Ep 8)](https://nononsenseforex.podbean.com/e/ep8-where-do-i-set-my-leverage/ "Ep 8 - Where to set leverage?") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/best-leverage-in-forex/ "Ep 8 - Blog")
@@ -105,6 +108,8 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
     is your **stop loss**. *(t = 5:30)*
 *   For e.g. if *SL = 80 pips*, with *R = 2*, you either **win 160** pips **or** you **lose 80** pips.
     There is **no in between**!
+*   *Blog:* It’s a **winner-take-all** method. Either you **win big** or **lose medium** (binary
+    options). The probability of a win is even less than 33% with a 2:1 ratio.
 *   Common **mistake** is to find a **support line**, figure the **take profit first** and the
     **stop loss depending** on the **ratio**. If the trade goes in your favour, you take profit.
     But if the price moves even further, the **door** is already **closed** for every
@@ -113,12 +118,14 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
     * Using a **Dirty Dozen** tool to determine TP. *(t = 11:40)*
     * Not **scaling out**, by not using a **trailing SL**, in order to **ensure break-even**.
     *(t = 12:50)*
-    * **Capping wins** beyond TP. Instead **keep** for e.g. 50 % of **profit in** the game.
-    *(t = 15:10)*
+    * **Capping wins** beyond TP. Instead **keep** for e.g. 50 % of **profit in** the game -
+    the actual meaning of scaling out. *(t = 15:10)*
 *   **Conclusion:** By ensuring break-even, the small wins **cancel out** your **losses**.
     The **wins beyond** break-even are your **final profits** at the end of the year! *(t = 16:30)*
 *   VP is giving a **demonstration** using the **Aroon Up & Down** indicator. *(t = 17:40)*
 *   See video [MM 9](https://youtu.be/tJBmVhefMeE "Trade Management - YouTube") on Scaling Out.
+*   *Blog:* **Preventing** a **loss** is like a **win** (against other losses). And **R2R generate**
+    a lot of **losses**.
 
 
 ## [MM 7 (Podcast Ep 18)](https://nononsenseforex.podbean.com/e/ep18-exit-indicators-and-time/ "Ep 18 - Exit Indicators") / - - -

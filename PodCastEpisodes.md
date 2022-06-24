@@ -42,7 +42,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
     move the same, just at a different time of the year.
 *   **EUR/CHF** is the only currency pair **VP didn't trade** in 2018.The pair has
     been tied together for a long time. Now he does, since the situation has changed.
-*   Blog Supplemental: [Stop Trading the EUR/USD Only](https://nononsenseforex.com/forex-basics/how-to-trade-the-eurusd-not-what-you-think/ "EUR/USD")
+*   *Blog:* [Stop Trading the EUR/USD Only](https://nononsenseforex.com/forex-basics/how-to-trade-the-eurusd-not-what-you-think/ "EUR/USD")
 
 
 ## [Episode 5](https://nononsenseforex.podbean.com/e/ep5-how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - How much money to trade?") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/how-much-money-do-you-need-to-trade-forex-professionally/ "Ep 5 - Blog")
@@ -66,9 +66,9 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 *   You have to **consitently** make a **profit** with your system in that **last 6 month**.
 *   The *american* ***stock market*** (S&P 500) on average does just under **12 % rate of return**
     year after year. In **FX** you have to **beat that**.
-*   *BlogSup:* **Nerd out** new **tools** and tweek your system in demo trading.
-*   *BlogSup:* After that you trade with **very small amount** and repeat this trial.
-*   *BlogSup:* **Emotions** will be **intense** - still: no matter what, **don't deviate**
+*   *Blog:* **Nerd out** new **tools** and tweek your system in demo trading.
+*   *Blog:* After that you trade with **very small amount** and repeat this trial.
+*   *Blog:* **Emotions** will be **intense** - still: no matter what, **don't deviate**
     from your system!
 
 
@@ -111,7 +111,7 @@ Blog: <https://nononsenseforex.com/forex-blog/>
  2. Allows demotrading as long as you wish to.
  3. Allows Meta Trader 4.
  4. Good customer service with native speakers in your language.
- 5. Blog Supplemental: [Best Broker For Non-US Residents](https://nononsenseforex.com/uncategorized/blueberry-markets-review-my-top-broker-for-2019/ "Non-US Brokers")
+ 5. *Blog:* [Best Broker For Non-US Residents](https://nononsenseforex.com/uncategorized/blueberry-markets-review-my-top-broker-for-2019/ "Non-US Brokers")
 
 
 ## [Episode 11](https://nononsenseforex.podbean.com/e/ep11-journaling-done-right/ "Ep 11 - Journaling") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/forex-journal-dos-and-donts/ "Ep 11 - Blog")
@@ -141,8 +141,8 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 *   But have a plan in place for bad events. Have money in different places. Buy
     precious metals.
 *   Stocks, Real Estate and most investments are helples to the market's doing.
-*   Blog Supplemental: Ray Dalio, How The Economics Machine Works: <https://youtu.be/PHe0bXAIuk0>
-*   Blog Supplemental: Peter Schiff, Making the Dollar Weak Again: <https://youtu.be/-1zENR5iW3k>
+*   *Blog:* Ray Dalio, How The Economics Machine Works: <https://youtu.be/PHe0bXAIuk0>
+*   *Blog:* Peter Schiff, Making the Dollar Weak Again: <https://youtu.be/-1zENR5iW3k>
 
 
 ## [Episode 13](https://nononsenseforex.podbean.com/e/ep13-trading-psychology-3-things-you-must-have-to-go-pro/ "Ep 13 - Trading Psychology") / [Blog](http://nononsenseforex.com/trading-psychology/forex-trading-psychology/ "Ep 13 - Blog")

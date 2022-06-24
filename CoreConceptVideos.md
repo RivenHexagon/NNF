@@ -39,7 +39,8 @@ Blog: <https://nononsenseforex.com/category/forex-basics/>
     Because it doesn't matter where traders currently are, but where they are
     going. There are good indicators that can tell, but we have to find them!
     VP gives hints in different places, but we've gotta find them on our own.
-*   Words on success rate of [followers](https://nononsenseforex.com/testimonials/ "Testimonials") *(t=05:20)*
+*   Words on success rate of [followers](https://nononsenseforex.com/testimonials/ "Testimonials")
+    *(t=05:20)*
 *   Recap on Big Banks' behavior (t=11:55)
 *   There are two *Sentiment Indicators (t=20:05)*
     * **IG Client Sentiment** ([IG website](https://www.dailyfx.com/sentiment-report))
