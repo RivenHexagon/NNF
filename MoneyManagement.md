@@ -129,7 +129,18 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
 
 
 ## [MM 7 (Podcast Ep 18)](https://nononsenseforex.podbean.com/e/ep18-exit-indicators-and-time/ "Ep 18 - Exit Indicators") / - - -
-### Exit Indicators and Time
+### Exit Indicators and Time - <br> How long do you hold on to your trades?
+### Answer: *Until the trend is over.*
+*   It can include the **weekend**. One of his trades went over a **month**. Don't cap the **upside**.
+*   VP's trades typicall end in one of **three ways**:
+    * It hits the **break-even** stop loss.
+    * It hits the **trailing** stop loss.
+    * By notification of the **exit indicator**.
+*   **Time** is no factor.
+*   About the exit indicator: *(t = 10:00)*
+    * Typically **not** a **zero cross**.
+    * Must not be too tight, in order to allow the big trends and wins.
+    * Must get you **out**, more often than not, **before** price hits the **trailing stop**.
 
 
 ## [MM 8](https://youtu.be/GzvxXS2OUvM "Heiken Ashi - YouTube") / [Blog](https://nononsenseforex.com/indicators/heikin-ashi-trading-strategy/ "Heiken Ashi - Blog")

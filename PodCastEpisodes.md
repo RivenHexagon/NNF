@@ -85,7 +85,11 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 *   Option 2: If half of your trading capital is not on your brokerage account,
     double the leverage. The sizes of your trades don't change in % but the
     account size does. This has to be balanced out.
+*   *Blog:* This way you **don't** entrust your **whole money** to a **single** brokerage **firm**.
+    Even the biggest can **crash**.
 *   The EU passed a law in 2018 that limits the leverage to 30:1 in FX.
+*   *Blog:* VP had about six trades open at max at the same time, with all 28 currency pairs,
+    and still enough margin.
 
 
 ## [Episode 9](https://nononsenseforex.podbean.com/e/ep9-should-i-pay-for-indicators/ "Ep 9 - Pay for Indicators?") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/are-paid-forex-indicators-worth-it/ "Ep 9 - Blog")
@@ -116,17 +120,18 @@ Blog: <https://nononsenseforex.com/forex-blog/>
 
 ## [Episode 11](https://nononsenseforex.podbean.com/e/ep11-journaling-done-right/ "Ep 11 - Journaling") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/forex-journal-dos-and-donts/ "Ep 11 - Blog")
 ### Journaling Done Right = $$
-### Answer: *Spread sheet with 5 columns:*
+### Answer: Journaling is for eliminating mistakes. *A Spread sheet with 5 columns:*
 
  1. Currency pair.
  2. Long or short.
  3. Amount of ***net*** **pips** gained or lost. *Net* pips since we take profit
     about half way through.
- 4. A link to a screenshot of the trade, with a line drawn where entered and exited.
+ 4. A link to a screenshot of the trade, with a line drawn where entered and exited.<br>
     Helps to evaluate *take profit, stop loss, and timing of those*.
  5. In **comments** profits or losses (expected, by following your system) don't
-    get a comment. Take notes of mistakes, like getting emotional, deviating from the
+    get a comment. Take notes of **mistakes**, like getting emotional, **deviating** from the
     system, trading a news event, ignoring an indicator.
+
 
 
 ## [Episode 12](https://nononsenseforex.podbean.com/e/ep12-is-forex-recession-proof/ "Ep 12 - Is FX Recession-Proof?") / [Blog](http://nononsenseforex.com/forex-q-and-a-podcast/is-forex-a-recession-proof-investment/ "Ep 12 - Blog")
