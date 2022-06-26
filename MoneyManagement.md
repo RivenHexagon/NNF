@@ -124,7 +124,7 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
     The **wins beyond** break-even are your **final profits** at the end of the year! *(t = 16:30)*
 *   VP is giving a **demonstration** using the **Aroon Up & Down** indicator. *(t = 17:40)*
 *   See video [MM 9](https://youtu.be/tJBmVhefMeE "Trade Management - YouTube") on Scaling Out.
-*   *Blog:* **Preventing** a **loss** is like a **win** (against other losses). And **R2R generate**
+*   *Blog:* **Preventing** a **loss** is like a **win** (against other losses). And **R2Rs generate**
     a lot of **losses**.
 
 
@@ -132,19 +132,20 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
 ### Exit Indicators and Time - <br> How long do you hold on to your trades?
 ### Answer: *Until the trend is over.*
 *   It can include the **weekend**. One of his trades went over a **month**. Don't cap the **upside**.
-*   VP's trades typicall end in one of **three ways**:
+*   VP's trades typically end in one of **three ways**:
     * It hits the **break-even** stop loss.
     * It hits the **trailing** stop loss.
     * By notification of the **exit indicator**.
 *   **Time** is no factor.
 *   About the exit indicator: *(t = 10:00)*
     * Typically **not** a **zero cross**.
-    * Must not be too tight, in order to allow the big trends and wins.
+    * Must not be too tight, in order to **allow** the **big trends** and wins.
     * Must get you **out**, more often than not, **before** price hits the **trailing stop**.
 
 
-## [MM 8](https://youtu.be/GzvxXS2OUvM "Heiken Ashi - YouTube") / [Blog](https://nononsenseforex.com/indicators/heikin-ashi-trading-strategy/ "Heiken Ashi - Blog")
-### Heiken Ashi Trading Strategy - Forget What You've Heard
+## [MM 8](https://youtu.be/GzvxXS2OUvM "Heikin Ashi - YouTube") / [Blog](https://nononsenseforex.com/indicators/heikin-ashi-trading-strategy/ "Heikin Ashi - Blog")
+### Heikin Ashi Trading Strategy - Forget What You've Heard
+
 
 
 ## [MM 9](https://youtu.be/tJBmVhefMeE "Trade Management - YouTube") / [Blog](https://nononsenseforex.com/trade-management/forex-money-management-scaling-out/ "Trade Management - Blog")
