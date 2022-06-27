@@ -152,12 +152,12 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
 *   Next **step after** calculationg the **risk**.
 *   Have **loss limits**, but also have **win limits** too! **Take out** money at some point is the
     big take away of this episode. You have **nothing until** you **sell**!
-*   VP uses the **ATR** to **evaluate** his win limits as a **simplified** alternative. He **tested**
-    it and got the **same results**. *(t = 8:50)*
+*   VP uses the **ATR** to **evaluate** his win limits in a **simplified** way. He **tested**
+    it and got the **same results** as in a complicated alternative. *(t = 8:50)*
 *   How to enter a trade
     *   Figure your **risk** *(t = 9:50)*
     *   Take **half** that risk (amount per pip)
-    *   Enter **two** trades with the **same** stop loss and **half risk**. (workaround if broker
+    *   Enter **two** trades with the **same stop loss** and **half risk**. (workaround if broker
         doesn't support scale-out.) *(t = 11:00)*
         * One trade has the *initial* **take profit** at the **ATR** (e.g. TP = 80 pips).
           This will **close** the **trade** automatically when it gets there and esures **break-even**.
@@ -168,8 +168,7 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
 *   **VP** mentiones he has been just **below 30 % pa** in FX (by 2018). *(t = 16:30)*
 *   After entering your trade, **don't look** at it. Let it **run**, so you don't get **emotional**.
     *(t = 20:30)*
-*   If price hits **take profit** point, **move stop loss** to break-even. *(t = 21:40)*
-*   Put in trailing stop ([MM 13](https://youtu.be/Bsc_1GwKINM "Trailing Stops - YouTube")).
+*   Put in trailing stops ([MM 13](https://youtu.be/Bsc_1GwKINM "Trailing Stops - YouTube")).
 
 ## [MM 10 (Podcast Ep 20)](https://nononsenseforex.podbean.com/e/ep20-monthly-returns-whats-good/ "Ep 20 - Monthly Returns") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/monthly-returns-in-forex/ "Ep 20 - Blog")
 ### Monthly Returns in Forex - What’s Good?
