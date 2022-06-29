@@ -154,7 +154,7 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
     big take away of this episode. You have **nothing until** you **sell**!
 *   VP uses the **ATR** to **evaluate** his win limits in a **simplified** way. He **tested**
     it and got the **same results** as in a complicated alternative. *(t = 8:50)*
-*   How to enter a trade
+*   How to **enter** a trade
     *   Figure your **risk** *(t = 9:50)*
     *   Take **half** that risk (amount per pip)
     *   Enter **two** trades with the **same stop loss** and **half risk**. (workaround if broker
@@ -165,13 +165,26 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
           even (where you entered your trade). *(t = 21:40)*
         * Let it run until the trend is over. It takes the **big wins**.
 *   VP gives an **example** on an actual *NZD/CHF* long trade. *(t = 12:20)*
-*   **VP** mentiones he has been just **below 30 % pa** in FX (by 2018). *(t = 16:30)*
+*   **VP** mentiones he has been between **20 % - 30 % pa** in FX (by 2018). *(t = 16:30)*
 *   After entering your trade, **don't look** at it. Let it **run**, so you don't get **emotional**.
     *(t = 20:30)*
 *   Put in trailing stops ([MM 13](https://youtu.be/Bsc_1GwKINM "Trailing Stops - YouTube")).
 
 ## [MM 10 (Podcast Ep 20)](https://nononsenseforex.podbean.com/e/ep20-monthly-returns-whats-good/ "Ep 20 - Monthly Returns") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/monthly-returns-in-forex/ "Ep 20 - Blog")
 ### Monthly Returns in Forex - What’s Good?
+### Answer: *Don't set monthly profit targets - it's self sabotage*
+*   Look at **percentage** returns, not **pips**.
+    *   Pips have a different **value** depending on the risk.
+    *   A return in **pips** always needs to be seen in **relation** to the **ATR** of a pair.
+*   Return per month can **fluctuate** a lot. There are gonne be **month** with **losses**! It is very
+    **inconsistent**. *(t = 7:50)*
+*   Don't take **trades** you should't just because of **temporary** lacking returns.
+*   FX gives the luxury of **not taking** trades if there are no. We let the market come to us.
+    *(t = 8:10)*
+*   Have **patience**! The **market** is never the same **month-to-month**. *(t = 9:00)*
+*   For **testing** the **indicators** you need **longer** term! *(t = 10:25)*
+*   A **6 to 12** month period gives a much **better** picture.
+*   *Blog:* VP hits 20 % - 30 % pa targets by **not trying** to hit those targets!
 
 
 ## [MM 11 (Podcast Ep 25)](https://nononsenseforex.podbean.com/e/ep25-adding-to-a-winning-trade/ "Ep 25 - Adding On") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/scaling-in/ "Ep 25 - Blog")

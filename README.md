@@ -32,6 +32,8 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
   <https://github.com/RivenHexagon/NNF/blob/main/CoreConceptVideos.md>
 * **Money Management** (what's next 1):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/MoneyManagement.md>
+* **Technical Analysis**(what's next 3):<br>
+  <https://github.com/RivenHexagon/NNF/blob/main/TechnicalAnalysis.md>
 
 **Go Get it!**
 Install *ReText* to propperly display and edit the *markdown files* offline if desired:
