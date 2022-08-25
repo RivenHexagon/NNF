@@ -209,7 +209,7 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
 ## [MM 12 (Podcast Ep 40)](https://nononsenseforex.podbean.com/e/ep40-dollar-cost-averaging-and-martingale/ "Ep 40 - Cost Averaging") / [Blog](https://nononsenseforex.com/uncategorized/reverse-labouchere/ "Ep 40 - Blog")
 ### Should I use Dollar Cost Averaging or Martingale in FX?
 ### Answer: *Holy shit, NO!*
-*   Used in **Stocks** and sometimes make sense. Since stocks have an **intrinsic value**, you 
+*   Used in **Stocks** and sometimes make sense. Since stocks have an **intrinsic value**, you
     don't expect them to fall further and further.
 *   This doesn't apply to **FX** at all, since your trades are **relative values**!
 
@@ -238,6 +238,21 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [MM 14 (Podcast Ep 72)](https://nononsenseforex.podbean.com/e/ep72-a-common-mistake/ "Ep 72 - Risk Split") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/dont-split-your-risk/ "Ep 72 - Blog")
 ### Don't Split Your Risk (A Common Mistake)
+*   VP mentions **other markets** that had been introduced on his channel: **Metal, Oil, Index**.  
+    Better **wait** until you're *inch wide, mile deep* in FX before moving on to other markets.
+    *(t = 2:00)*  
+    **Podcast topic** starts at *(t = 5:50)*.
+*   This can be seen as a **supplement** to the **risk** video (...).  
+    An annual **return** of **10 %** in
+    **FX, metal, indices** plus 1.5 % in Oil, gives a *realistic* return of **31.5 %**. *(t = 7:30)*
+*   Example: **20k split** into **10k FX** on broker A and **10k metals** on broker B. *(t = 9:20)*
+*   The **risk** is still **20k**! Trade the **same** way as it was **all** in **one** account.
+    Always take the **risk** off of the **sum**. *(t = 10:50)*
+*   Hence the **2% risk** in the **10k FX** account is not 200$ but **400 $**. *(t = 12:00)*
+*   Treating it **seperately** yields a total **return** of **only 10 %** instead of **20 %**.  
+    Spilttig your risk also **splits** your **returns!** *(t = 13:50)*
+
+continue at *(t = 14:30)*
 
 
 END
