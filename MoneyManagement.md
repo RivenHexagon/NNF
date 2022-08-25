@@ -172,31 +172,68 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [MM 10 (Podcast Ep 20)](https://nononsenseforex.podbean.com/e/ep20-monthly-returns-whats-good/ "Ep 20 - Monthly Returns") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/monthly-returns-in-forex/ "Ep 20 - Blog")
 ### Monthly Returns in Forex - What’s Good?
-### Answer: *Don't set monthly profit targets - it's self sabotage*
+### Answer: *Don't set monthly profit targets - it's self sabotage.*
 *   Look at **percentage** returns, not **pips**.
     *   Pips have a different **value** depending on the risk.
     *   A return in **pips** always needs to be seen in **relation** to the **ATR** of a pair.
-*   Return per month can **fluctuate** a lot. There are gonne be **month** with **losses**! It is very
+*   Return per month can **fluctuate** a lot. There gonna be **month** with **losses**! It is very
     **inconsistent**. *(t = 7:50)*
 *   Don't take **trades** you should't just because of **temporary** lacking returns.
 *   FX gives the luxury of **not taking** trades if there are no. We let the market come to us.
     *(t = 8:10)*
 *   Have **patience**! The **market** is never the same **month-to-month**. *(t = 9:00)*
-*   For **testing** the **indicators** you need **longer** term! *(t = 10:25)*
+*   For **testing** the **indicators** you need **longer** terms! *(t = 10:25)*
 *   A **6 to 12** month period gives a much **better** picture.
 *   *Blog:* VP hits 20 % - 30 % pa targets by **not trying** to hit those targets!
 
 
 ## [MM 11 (Podcast Ep 25)](https://nononsenseforex.podbean.com/e/ep25-adding-to-a-winning-trade/ "Ep 25 - Adding On") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/scaling-in/ "Ep 25 - Blog")
-### Adding On To A Winning Trade
-
+### Adding to a Winning Trade?
+### Answer: *No*
+*   In opposition to **scaling out**
+    ([MM 9](https://youtu.be/tJBmVhefMeE "Trade Management - YouTube")),
+    you could also **scale in**, for e.g. buy a dip when a retreat happens while the trade runs.
+*   The **entry indicator** gave you the **optimal time** to enter a trade. **How** would you
+    **know** if a winning trade **continues** to win or will again turn in your favour? *(t = 5:45)*
+*   In *Podcast Ep 23*, VP mentions the **FOMO** (fear of missing out) trade. He took **losses**,
+    cuz those trends are mathematically **against** us, the **more** they already moved in our
+    favour! *(t = 6:50)*
+*   What if we are in a **winning** trade and the **algorithm** gives **another** signal to enter?
+    In order for the confirmation indicator to give **second signal**, it would have first to have
+    gone the **other way**. Hence, it would have already told you to **get out**! *(t = 9:15)*
+*   *Blog:* If your **confirmation indicator** gives you an exit signal **before** the
+    **exit indicator** does, the exit indicator **sucks**.
+*   *Blog:* You could have **scaled in** or **exited and entered** again. The second option follows
+    a **system** and puts the **odds** in your favour!
 
 ## [MM 12 (Podcast Ep 40)](https://nononsenseforex.podbean.com/e/ep40-dollar-cost-averaging-and-martingale/ "Ep 40 - Cost Averaging") / [Blog](https://nononsenseforex.com/uncategorized/reverse-labouchere/ "Ep 40 - Blog")
-### Cost Averaging and Martingale
+### Should I use Dollar Cost Averaging or Martingale in FX?
+### Answer: *Holy shit, NO!*
+*   Used in **Stocks** and sometimes make sense. Since stocks have an **intrinsic value**, you 
+    don't expect them to fall further and further.
+*   This doesn't apply to **FX** at all, since your trades are **relative values**!
 
 
 ## [MM 13](https://youtu.be/Bsc_1GwKINM "Trailing Stops - YouTube") / - - -
 ### Trailing Stops In Forex
+*   Is something **VP almost never has to do**! *(t = 2:40)*
+*   Gives **prequisites** for **entering**, what **numbers** to use and how to **maintain** TS.
+*   You **don't** want the price to **hit** the TS. Don't have it to tight, like **regular SL**.
+*   **Place** a TS when: *(t = 7:40)*
+    * price has ***closed*** *>= 2 x ATR* from **entry point**.
+    * For e.g. ATR = 100 p, price goes up 100 p, take 50% off. If price >= 200 p up, place TS.
+*   **Numbers** are: *(t = 8:35)*
+    * TS goes *1.5 x ATR* **behind** price.
+*   **Maintaining** rules are: *(t = 9:05)*, *(t = 9:30)*, *(t = 10:20)*
+    * more **important** than the **numbers** above, they may be **adjusted**.
+    * VP uses the **same ATR** as when he **entered** the trade. *(t = 10:50)*
+    * VP **demonstrates** setting the TS based on 1.5 x ATR (going short, ATR sits above price)
+    *(t = 16:10)*
+    * In order to **maintain** it **manually**, VP checks only **once a day**. *(t = 18:00)*
+    * **Leave it** unless price has **closed** for even **more** pips. *(t = 19:40)*
+    * The TS **never** moves **backward**! Only further in the direction you already moved it.
+      *(t = 20:55)*
+    * Always keep it *1.5 x ATR* away. *(t = 21:55)*
 
 
 ## [MM 14 (Podcast Ep 72)](https://nononsenseforex.podbean.com/e/ep72-a-common-mistake/ "Ep 72 - Risk Split") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/dont-split-your-risk/ "Ep 72 - Blog")
