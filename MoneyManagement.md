@@ -237,22 +237,32 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
 
 
 ## [MM 14 (Podcast Ep 72)](https://nononsenseforex.podbean.com/e/ep72-a-common-mistake/ "Ep 72 - Risk Split") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/dont-split-your-risk/ "Ep 72 - Blog")
-### Don't Split Your Risk (A Common Mistake)
+### Don't Split Your Risk (cutting profits in half)
+*   *Blog & Podcast:* VP advises to **split** money into **two accounts** at different 
+    **brokers** and how it affects risk calculation. *(t = 16:15)*
+*   This episode can be seen as a **supplement** to the **risk** video
+    [MM 3](https://youtu.be/bqWLFNpK6eg "Risk - YouTube").
 *   VP mentions **other markets** that had been introduced on his channel: **Metal, Oil, Index**.  
-    Better **wait** until you're *inch wide, mile deep* in FX before moving on to other markets.
+    Better **wait** until you're *inch wide, mile deep* into FX before moving on to other markets.
     *(t = 2:00)*  
-    **Podcast topic** starts at *(t = 5:50)*.
-*   This can be seen as a **supplement** to the **risk** video (...).  
-    An annual **return** of **10 %** in
-    **FX, metal, indices** plus 1.5 % in Oil, gives a *realistic* return of **31.5 %**. *(t = 7:30)*
-*   Example: **20k split** into **10k FX** on broker A and **10k metals** on broker B. *(t = 9:20)*
-*   The **risk** is still **20k**! Trade the **same** way as it was **all** in **one** account.
-    Always take the **risk** off of the **sum**. *(t = 10:50)*
-*   Hence the **2% risk** in the **10k FX** account is not 200$ but **400 $**. *(t = 12:00)*
-*   Treating it **seperately** yields a total **return** of **only 10 %** instead of **20 %**.  
-    Spilttig your risk also **splits** your **returns!** *(t = 13:50)*
-
-continue at *(t = 14:30)*
+*   *Blog:* But VP shows in the [Indices video](https://youtu.be/RDRg3ATK1UM) how powerful it is to 
+    become proficient at **multiple markets** and how **Curry Wurst** could upset
+    **David Hasselhoff**.
+*   *Index example:* An annual **return** of **10 %** in
+    **FX, metal, indices** + **1.5 %** in **Oil**, gives a realistic return of **31.5 %**.  
+    How to calculate risk? *(t = 7:30)*
+*   Let's **split 20k** into **10k** in **FX** on **Broker A** and **10k** in **metals** on
+    **Broker B**. *(t = 9:20)*  
+    The **risk** is still **20k**! Trade the **same** way as it was **all** in **one** account.
+    Always take the **risk** off of the **sum**.  
+    *Blog:* Even if you have only **one trade** open in one of the two accounts. *(t = 10:50)*  
+    Hence the **2% risk** in the **10k FX** account is not 200$ but **400 $**. *(t = 12:00)*
+*   Treating the accounts **seperately** would yield a total return of **only 10 %** - not **20 %**!  
+    Spilttig your risk also **splits** your **returns**! *(t = 13:50)*
+*   **Leverage** should be **adjusted** - in this scenario only - from **20:1** to 30:1
+    (or **40:1** if possible). *(t = 15:05)*
+*   **Try** this method in **demo** to get used to it before trading real money. *(t = 16:45)*
+*   *Blog:* If you **lose** in one market, you may **compensate** in another.
 
 
 END
