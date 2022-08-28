@@ -22,6 +22,7 @@ Blog: <https://nononsenseforex.com/category/indicators/>
 *   Select the best of the best with a large sample size
 *   **Tech Analysis** will **not** make you **win**, it's **Money Managment** and Trading Psychology.
 
+
 ## [TA 3 (MM 2)](https://youtu.be/086ozcHDZPw "ATR - YouTube") / [Blog](https://nononsenseforex.com/indicators/the-worlds-best-forex-indicator/ "ATR - Blog")
 ### ATR Is The World’s Best Forex Indicator (16:40)
 See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/main/MoneyManagement.md>
@@ -29,6 +30,24 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 5](https://youtu.be/YWNloLjXqeI "Trend Indicators - YouTube") / [Blog](https://nononsenseforex.com/indicators/forex-trend-indicators/ "Trend Indicators - Blog")
 ### FX Trend Indicators for the NNF Algorithm (25:14)
+*   Catch up: *(t = 2:00)*
+    * trade trends, not reversal
+    * combine the right indicators
+    * trade the daily frame
+    * know your risk
+*   VP mentions in the [Blog of Podcast Ep9](http://nononsenseforex.com/forex-q-and-a-podcast/are-paid-forex-indicators-worth-it/ "Ep 9 - Blog") where to look for indicators.  
+    Or google for *"Forex indicator MT4"*. There are **5-6** good places.  
+    Some are not updated anymore, but the infos and indicators are still there.
+*   What to look for: *(t = 6:50)*
+    * Indie that does **not** get you into a trade **too early**, hence too **many signals**.
+    * Indie that does **not** get you into a trade **too late**, hence selective but too **slow**.
+    * Avoid whipsaws and false trends. *(t = 7:40)*
+*   **Types** of **trend** confirmation indicators
+    * 1
+    * 2
+    * 3
+
+continue at *(t = 7:40)*
 
 
 ## [TA 7](https://youtu.be/sS52hC1i2hI "MACD - YouTube") / [Blog](https://nononsenseforex.com/indicators/macd-indicator-strategy/ "MACD - Blog")
