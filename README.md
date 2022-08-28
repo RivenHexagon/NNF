@@ -1,6 +1,6 @@
 # No Nonsense Forex - Strategy Guideline and Essentials
 
-This files present a **condensed exerpt** of the *No Nonsense Forex* trading strategy from his **[blogs](https://nononsenseforex.com/forex-blog/ "NNF blog")**, **[videos](https://www.youtube.com/channel/UCc8IRYpgBr4NGbaQFnd2b-A "youtube")** and [podcast](https://nononsenseforex.com/forex-podcast/).
+This files present a **condensed exerpt** of the *No Nonsense Forex* trading strategy from his **[blogs](https://nononsenseforex.com/forex-blog/ "NNF blog")**, **[videos](https://www.youtube.com/channel/UCc8IRYpgBr4NGbaQFnd2b-A "youtube")** and **[podcast](https://nononsenseforex.com/forex-podcast/)**.
 
 NNF Web Page: <https://nononsenseforex.com/>
 
