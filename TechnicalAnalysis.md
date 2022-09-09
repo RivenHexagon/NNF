@@ -41,8 +41,11 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 *   What to look for: *(t = 6:50)*
     * Indie that does **not** get you into a trade **too early**, hence too **many signals**.
     * Indie that does **not** get you into a trade **too late**, hence selective but too **slow**.
-    * Avoid whipsaws and false trends. *(t = 7:40)*
-*   **Types** of **trend** confirmation indicators
+    * Avoid whipsaws and false trends. Can be significant at the end of the year. *(t = 7:40)*
+    * VP uses **7** out of 50 very good indis. He has mentioned only **six** before. No 7 is used
+    **occasionally**, depending the market.
+*   **Types** of **trend** confirmation indicators to use. Any indie not one of theese types can be
+    **dismissed**.
     * 1
     * 2
     * 3
