@@ -44,13 +44,18 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
     * Avoid whipsaws and false trends. Can be significant at the end of the year. *(t = 7:40)*
     * VP uses **7** out of 50 very good indis. He has mentioned only **six** before. No 7 is used
     **occasionally**, depending the market.
-*   **Types** of **trend** confirmation indicators to use. Any indie not one of theese types can be
-    **dismissed**.
-    * 1
-    * 2
-    * 3
-
-continue at *(t = 7:40)*
+*   **Types** of **trend** confirmation indicators to use: Any indie not one of these types can be
+    **dismissed** *(t = 10:35)*.
+    * **Zero Line Cross**, below the chart with a zero line. *(t = 11:30)*
+    * **Two Line Cross**, below the chart, two dynamic lines crossing. *(t = 16:40)*
+        * *Aroon Up&Down* in the top 100, but not part of VPs algo. *(t = 20:00)*
+    * **Chart Indicators**, go directly on the candle chart. *(t = 20:40)*
+        * *Super-Trend* may work better as an exit than an confirmation editor. Like the
+          *Parabolic SAR* they do not work good in a **sideways market**. VP found better entry 
+          indis, that **avoid false signals** in those markets.
+* Conclusion
+    * **Vary** the **default** settings! It may improve the indie a lot. *(t = 15:30)*
+    * **Test** on **differnent** currency **pairs**. It may not work on all.
 
 
 ## [TA 7](https://youtu.be/sS52hC1i2hI "MACD - YouTube") / [Blog](https://nononsenseforex.com/indicators/macd-indicator-strategy/ "MACD - Blog")
