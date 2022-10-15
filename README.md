@@ -1,6 +1,6 @@
 # No Nonsense Forex -<br>Strategy Guideline and Essentials
 
-The files in this repository present a **condensed exerpt** of the *No Nonsense Forex* trading strategy from his **[blogs](https://nononsenseforex.com/forex-blog/ "NNF blog")**, **[videos](https://www.youtube.com/channel/UCc8IRYpgBr4NGbaQFnd2b-A "youtube")** and **[podcast](https://nononsenseforex.com/forex-podcast/)**.
+The files in this repository represent a **condensed exerpt** of the *No Nonsense Forex* trading strategy from his **[blogs](https://nononsenseforex.com/forex-blog/ "NNF blog")**, **[videos](https://www.youtube.com/channel/UCc8IRYpgBr4NGbaQFnd2b-A "youtube")** and **[podcast](https://nononsenseforex.com/forex-podcast/)**.
 
 NNF Web Page: <https://nononsenseforex.com/>
 
@@ -34,6 +34,8 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
   <https://github.com/RivenHexagon/NNF/blob/main/MoneyManagement.md>
 * **Technical Analysis**(what's next 3):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/TechnicalAnalysis.md>
+
+The preparation of this papers resulted from the need to take personal notes while working with the material. It is **not** written from a generalized point of view. It deals only with content from the perspective of a fully algorithmic approach to the FX indicator search and trading. Therefore, the content written down is selective, as is the sample of videos included.
 
 ## Go Get it!
 Install *ReText* to propperly display and edit the *markdown files* offline if desired:

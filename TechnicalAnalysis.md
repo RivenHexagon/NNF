@@ -86,6 +86,10 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 11](https://youtu.be/PfquDvN0fwI "Baics - YouTube") / - - -
 ### Forex Indicator Basics (18:30)
+* Read the ATR **correctly**:
+    * Read the ATR right **after** the **close** of a candle. But the ATR that is displayed after
+      that event, already includes the **new** candle, that hasn't closed yet. The ATR we want is
+      the one a tick **before**! Hence, read it directly from the **graph**.
 
 
 ## [TA 12](https://youtu.be/NWqbmPC3bD8 "Volume Indicator - YouTube") / [Blog](https://nononsenseforex.com/indicators/forex-volume/ "Volume Indicator - Blog")
