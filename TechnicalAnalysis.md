@@ -60,7 +60,29 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 7](https://youtu.be/sS52hC1i2hI "MACD - YouTube") / [Blog](https://nononsenseforex.com/indicators/macd-indicator-strategy/ "MACD - Blog")
 ### MACD Indicator (24:57)
-
+*   Is a **Two Lines Cross** and **Zero Cross** indie.
+*   Does **reversals** and **trends**.
+*   There are **variations** *(t = 7:40)*
+*   * Does it use SMA or EMA to determine the lines?
+*   * MT4 has its own MACD
+*   * Should I use the **histogram**? *(t = 11:25)*
+*   * Variations have been programmed reecently for **FX trading**. *(t = 10:30)*
+* Study variations, they may turn out to be usefull 
+  ([see blog](https://nononsenseforex.com/indicators/macd-indicator-strategy/ "MACD - Blog")).
+  *(t = 11:00)*
+* Probably 90 % of traders use it to call **reversals**. *(t = 12:10)*
+* VP's **special use** of MACD or **equivalent** indies that do zero & two line cross: *(t = 15:40)*
+    * For a **Continuation signal** wait until **both** lines are either **under or above** zero.  
+    If under, let them cross **each other** (without crossing zero) and **continue** downward
+    or vice versa.
+    * VP usually tries to shoot for 100 pips. Meanwhile less, since the market was so slow.
+    * VP refers to this as **continuation signals**.
+* **Summary** and conclusion: *(t = 21:00)*
+    * If both lines **remained** above zero after their last crossing and cross again **upwards**,
+      go long and vice versa.
+    * Don't use the clasic/standard MACD.
+    * Don't use it for reversals or as a zero cross indicator.
+    * VP's **most successfull** trades were all **continuation trends**.
 
 ## [TA 11](https://youtu.be/PfquDvN0fwI "Baics - YouTube") / - - -
 ### Forex Indicator Basics (18:30)
