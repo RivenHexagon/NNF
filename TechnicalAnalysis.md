@@ -86,11 +86,27 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 11](https://youtu.be/PfquDvN0fwI "Baics - YouTube") / - - -
 ### Forex Indicator Basics (18:30)
-* Read the ATR **correctly**:
-    * Read the ATR right **after** the **close** of a candle. But the ATR that is displayed after
+* Read the **ATR correctly**:
+    * If we read the ATR right **after** the **close** of a candle, the ATR that is displayed after
       that event, already includes the **new** candle, that hasn't closed yet. The ATR we want is
-      the one a tick **before**! Hence, read it directly from the **graph**.
-
+      the one a tick **before**! Hence, we have to read it directly from the **graph**. *(t = 3:20)*
+* Read **indicators correctly** in general:
+    * VP trades 20 min **before** the candle closes, which is accurate engough. *(t = 6:00)*
+    * In order to **read** an indicator **correctly**, in general, the candle has to **close** first.   
+    * Indicators may give buy and sell **signals** throughout the day, but the correct data appears     
+      right before or at candle close. *(t = 7:30)*
+    * If the lines of a two line cross, sit on each other, **wait** for the next candles to close,
+      until they give a **clear** cross signal. *(t = 8:20)*
+* Read **charts fast**: *(t = 10:50)*
+    * VP monitors **28 pairs**, trades **20 min before** candles **close** and spends **15 min** max
+      on trading **FX and metals** per day. *(t = 11:20)*
+    * First he takes care of the **trades** he is **currently** in. *(t = 11:30)*
+    * Check the **main confirmation** indicator. If it doesn't tell to make a trade, the other indies
+      **don't matter**. Move on to the **next chart**. *(t = 12:00)*
+    * If it does give a **signal**, look at the **other indicators**. *(t = 12:40)*
+* Conclusion: *(t = 16:25)*
+    * Wait for the **candle** to **close** or right before.
+    * Focus on the **main confirmation** indicator first on all charts to trade **fast**.
 
 ## [TA 12](https://youtu.be/NWqbmPC3bD8 "Volume Indicator - YouTube") / [Blog](https://nononsenseforex.com/indicators/forex-volume/ "Volume Indicator - Blog")
 ### Forex Volume Indicator - Our Oxygen Meter (30:56)

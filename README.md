@@ -17,7 +17,7 @@ Follow the **[Podcast](https://nononsenseforex.com/forex-podcast/)** episodes **
 gives some supplemental information.
 
 * **Step Three**<br>
-Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6-TXfHyC12MRHK5doA5oUeGwpkV "youtube")** episodes 2 to 7 (*Big Banks* through *EUR/USD*).<br>It is also comlemented by a **[blog](https://nononsenseforex.com/category/forex-basics/ "core concept blog") version**.
+Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6-TXfHyC12MRHK5doA5oUeGwpkV "youtube")** episodes **2 to 7** (*Big Banks* through *EUR/USD*).<br>It is also complemented by a **[blog](https://nononsenseforex.com/category/forex-basics/ "core concept blog") version**.
 
 * ### What's next
     * [Money Management](https://www.youtube.com/playlist?list=PLPqWQo6-TXfE8G_Mmxow0znSSoWTu44e7 "YouTube playlist")
@@ -32,10 +32,10 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
   <https://github.com/RivenHexagon/NNF/blob/main/CoreConceptVideos.md>
 * **Money Management** (what's next 1):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/MoneyManagement.md>
-* **Technical Analysis**(what's next 3):<br>
+* **Technical Analysis** (what's next 3):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/TechnicalAnalysis.md>
 
-The preparation of this papers resulted from the need to take personal notes while working with the material. It is **not** written from a generalized point of view. It deals only with content from the perspective of a fully algorithmic approach to the FX indicator search and trading. Therefore, the content written down is selective, as is the sample of videos included.
+The preparation of this papers resulted from the need to take personal notes while working with the material. It is not written from a generalized point of view. It deals only with content from the perspective of a fully algorithmic approach to the FX indicator search and trading. Therefore, the content written down is selective, as is the sample of videos and podcasts included.
 
 ## Go Get it!
 Install *ReText* to propperly display and edit the *markdown files* offline if desired:

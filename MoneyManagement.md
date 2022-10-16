@@ -215,7 +215,7 @@ See Essentials on PodCast Episodes: <https://github.com/RivenHexagon/NNF/blob/ma
 
 
 ## [MM 13](https://youtu.be/Bsc_1GwKINM "Trailing Stops - YouTube") / - - -
-### Trailing Stops In Forex
+### Trailing Stops (TS) In Forex
 *   Is something **VP almost never has to do**! *(t = 2:40)*
 *   Gives **prequisites** for **entering**, what **numbers** to use and how to **maintain** TS.
 *   You **don't** want the price to **hit** the TS. Don't have it to tight, like **regular SL**.
