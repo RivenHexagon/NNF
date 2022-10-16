@@ -110,6 +110,37 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 12](https://youtu.be/NWqbmPC3bD8 "Volume Indicator - YouTube") / [Blog](https://nononsenseforex.com/indicators/forex-volume/ "Volume Indicator - Blog")
 ### Forex Volume Indicator - Our Oxygen Meter (30:56)
+* Algorithm update:
+    * ATR
+    * ???
+    * Confirmation Indi
+    * ???
+    * **Volume** Indi
+    * Exit Indi
+* We are trend traders and **volume** makes markets **trend**.
+* **Without** volume we make **losses**. We can eliminate those with a good volume indie.
+* Part 2 and 4 of the **algorithm** also cut down losses. So **50%** of the algo **reduces losses**.
+* A good **volume** indie **does** *(t = 7:20)*
+    * tell you if there is **enough** volume to trade.
+    * **prevent** you from taking **bad** trades.
+    * let **take** you the **good** trades (**needs** also be **tested**).
+    * lag as little as possible.
+* VP shows **example** of a bad **confirmation** indie. *(t = 11:00)*
+* The ROC indi gave 8 loses over 5-6 month on this pair. Just to give an idea of the **time frame**
+  and **frequency**. *(t = 13:50)*
+* VP then demonstrates how a bad **volume** indi can **fix** some **losses**. *(t = 14:00)*
+* We have to **find** a **level** that tells when to **trade** in addition to find the **indi** 
+  itself.
+* Even the **best** volume indi sometimes **prevents** us from taking **good** trades. But the 
+  prevented **losses outnumbers** this.  
+  Pieces 2 and 4 of the algo **rarely** skip good trades btw. *(t = 23:50)*
+* VP stresses in another **example** how **important** it is to **prevent** entering **loss** trades!
+  We have to **test** for **this**. *(t = 20:00)*
+* VP asks the followers to give a link to their volume indi source. *(t = 26:20)*
+* VP gives a **hint** to an **additional** volume tool. *(t = 28:00)*
+* Conclusion:
+    * Only trade when the volume is there.
+    * Keep adjusting your volume indi and searching for better ones.
 
 
 ## [TA 13](https://youtu.be/N8Kbk0cwIWg "Volume Indicator 2 - YouTube") / - - -
