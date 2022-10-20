@@ -145,6 +145,23 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 13](https://youtu.be/N8Kbk0cwIWg "Volume Indicator 2 - YouTube") / - - -
 ### Volume Indicators Part 2 (22:49)
+* **Volume** and **Volatility** are not the same but **related**.
+* Volume fosters **volatility, liquidity** and momentum. (VP leaves momentum aside, since momentum
+   indis are related to reversals.)
+* Since volume and volatility are so closely related, VP doesn't oppose to **search** for
+  **both types** of indis but to only **use one** - the most efficient. *(t = 6:30)*
+* The **term** volume is **vague**, but **google** defines it as an **individual entity**.
+  *(t = 8:30)*
+* VP recommends **not** to use **ATR** as a **volume** indicator. **
+    * The **reference** line has to be in a **different** place for **every pair**.
+    * Markets **change**, so does the **volatility** range **over time**.
+    * This makes it highly **inconsitent**.
+* VP gives a free **side tool**, he checks on every day, but is **not** part of the **algorithm**.
+  *(t = 15:30)*
+    * At *barchart.com* **search** for *$EVZ*, click **full chart** and **bookmark**.
+    * If the number is **below 8** (changed over time), VP **doesn't** put in the full **2% risk**.
+      *(t = 19:00)*
+
 
 
 ## [TA 16 (Podcast Ep 32)](https://nononsenseforex.podbean.com/e/ep32-faster-ways-to-test-indicators/ "Ep 32 - Faster Testing") / - - -
