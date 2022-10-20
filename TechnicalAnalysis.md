@@ -203,6 +203,14 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [Podcast Ep 21](https://nononsenseforex.podbean.com/e/ep21-backtesting-indicators/ "Ep 32 - Backtesting") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/forex-backtesting-step-by-step/ "Backtesting - Blog")
 ### Backtesting Indicators (15:41)
+* *Q:* What is the most effective way to test confirmation and exit indis?
+* *A:* VP **focuses** on testing the **confirmation** indi. *(t = 6:00)*
+    * Pic a currencey pair and put the indi up on the chart with the **default settings** first.
+    * Put the ATR underneith.
+    * Go **back** 2 - 3 years **max**, since **market** was completely **different** further back.
+
+*continue at t= 8:00*
+
 
 
 END
