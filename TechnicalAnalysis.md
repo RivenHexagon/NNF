@@ -149,23 +149,30 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 * Volume fosters **volatility, liquidity** and momentum. (VP leaves momentum aside, since momentum
    indis are related to reversals.)
 * Since volume and volatility are so closely related, VP doesn't oppose to **search** for
-  **both types** of indis but to only **use one** - the most efficient. *(t = 6:30)*
+  **both types** of indis but to only **use one**. *(t = 6:30)*
 * The **term** volume is **vague**, but **google** defines it as an **individual entity**.
   *(t = 8:30)*
-* VP recommends **not** to use **ATR** as a **volume** indicator. **
+* VP recommends **not** to use **ATR** as a **volume** indicator.
     * The **reference** line has to be in a **different** place for **every pair**.
     * Markets **change**, so does the **volatility** range **over time**.
-    * This makes it highly **inconsitent**.
-* VP gives a free **side tool**, he checks on every day, but is **not** part of the **algorithm**.
+    * This makes the **placement** of the **line** highly **inconsitent**.
+* VP gives a free **side tool** he checks on every day, but is **not** part of the **algorithm**.
   *(t = 15:30)*
-    * At *barchart.com* **search** for *$EVZ*, click **full chart** and **bookmark**.
+    * At *barchart.com* **search** for *$EVZ*, **click** *full chart* and **bookmark**.
     * If the number is **below 8** (changed over time), VP **doesn't** put in the full **2% risk**.
       *(t = 19:00)*
 
 
-
-## [TA 16 (Podcast Ep 32)](https://nononsenseforex.podbean.com/e/ep32-faster-ways-to-test-indicators/ "Ep 32 - Faster Testing") / - - -
+## [TA 16 (Podcast Ep 32)](https://nononsenseforex.podbean.com/e/ep32-faster-ways-to-test-indicators/ "Ep 32 - Faster Testing") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/test-forex-indicators/ "Fast Testing - Blog")
 ### Faster Ways To Test Forex Indicators (12:14)
+* *Blog:* Most indis VP **uses** he **didn't** like on **first glance**.
+* **Rule out** at an early stage **indis** that:
+    * **just** follow **price**.
+    * **don't** even **work** in the **example** (screen shot).
+    * give too **many** buy and sell **signals** quickly after each other (typically losses).
+    * shows **support** and **resistance** lines. *Blog:* Includes words *pivot, gann, channel*, etc.
+    * you can't **modify**.
+
 
 ## [TA 18](https://youtu.be/IxZ1EdqFJcM "MA on Indicators - YouTube") / - - -
 ### Putting A Moving Average on an Indicator Makes Things Happen (19:57)
@@ -193,5 +200,9 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 34](https://youtu.be/b9HE8q0tobQ "Advanced Strategy - YouTube") / - - -
 ### Advanced Forex Strategy - NNFX Traders Only (16:37)
+
+## [Podcast Ep 21](https://nononsenseforex.podbean.com/e/ep21-backtesting-indicators/ "Ep 32 - Backtesting") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/forex-backtesting-step-by-step/ "Backtesting - Blog")
+### Backtesting Indicators (15:41)
+
 
 END
