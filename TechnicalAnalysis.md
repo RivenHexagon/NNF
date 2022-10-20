@@ -209,7 +209,7 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
     * Put the ATR underneith.
     * Go **back** 2 - 3 years **max**, since **market** was completely **different** further back.
 
-*continue at t= 8:00*
+*continue at t=8:00*
 
 
 

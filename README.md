@@ -35,7 +35,7 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
 * **Technical Analysis** (what's next 3):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/TechnicalAnalysis.md>
 
-The preparation of this papers resulted from the need to take personal notes while working with the material. It is not written from a generalized point of view. It deals only with content from the perspective of a fully algorithmic approach to the FX indicator search and trading. Therefore, the content written down is selective, as is the sample of videos and podcasts included.
+The preparation of this papers resulted from the need to take personal notes while working with the material. It is not written from a generalized point of view. It deals only with content from the perspective of a fully **algorithmic approach** to the **FX indicator search** and **trading**. Therefore, the content written down is **selective**, as is the sample of videos and podcasts included.
 
 ## Go Get it!
 Install *ReText* to propperly display and edit the *markdown files* offline if desired:
