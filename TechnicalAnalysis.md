@@ -63,15 +63,20 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 *   Is a **Two Lines Cross** and **Zero Cross** indie.
 *   Does **reversals** and **trends**.
 *   There are **variations** *(t = 7:40)*
-*   * Does it use SMA or EMA to determine the lines?
-*   * MT4 has its own MACD
-*   * Should I use the **histogram**? *(t = 11:25)*
-*   * Variations have been programmed reecently for **FX trading**. *(t = 10:30)*
+    * Does it use SMA or EMA to determine the lines?
+    * MT4 has its own MACD
+    * Ignore the **histogram** *(t = 11:25)*
+    * Use a variation that actually plots **two lines**.
+    * Variations have been programmed reecently for **FX trading**. *(t = 10:30)*
+    * *Blog:* It originates from the 70s for **stock trading**.
 * Study variations, they may turn out to be usefull 
   ([see blog](https://nononsenseforex.com/indicators/macd-indicator-strategy/ "MACD - Blog")).
   *(t = 11:00)*
 * Probably 90 % of traders use it to call **reversals**. *(t = 12:10)*
-* VP's **special use** of MACD or **equivalent** indies that do zero & two line cross: *(t = 15:40)*
+* *Blog:* In the Trend Indicator [Video](https://youtu.be/YWNloLjXqeI "Trend Indicators - YouTube") 
+  VP talkes about **zero-cross** and **two lines cross** as trend conformation.  
+  MACD **combines both**, so do **similar** indicators like it.
+* VP's **special use** of MACD or ***equivalent*** zero + two line cross indies: *(t = 15:40)*
     * For a **Continuation signal** wait until **both** lines are either **under or above** zero.  
     If under, let them cross **each other** (without crossing zero) and **continue** downward
     or vice versa.
@@ -83,6 +88,7 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
     * Don't use the clasic/standard MACD.
     * Don't use it for reversals or as a zero cross indicator.
     * VP's **most successfull** trades were all **continuation trends**.
+* ***Open question***: How does it fit the **algorithm**?
 
 ## [TA 11](https://youtu.be/PfquDvN0fwI "Baics - YouTube") / - - -
 ### Forex Indicator Basics (18:30)
@@ -119,13 +125,14 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
     * Exit Indi
 * We are trend traders and **volume** makes markets **trend**.
 * **Without** volume we make **losses**. We can eliminate those with a good volume indie.
-* Part 2 and 4 of the **algorithm** also cut down losses. So **50%** of the algo **reduces losses**.
+* Part 2 and 4 of the **algorithm** also cut down losses the **confirmation** indi would give.
+  So **50%** of the algo **reduces losses**.
 * A good **volume** indie **does** *(t = 7:20)*
     * tell you if there is **enough** volume to trade.
-    * **prevent** you from taking **bad** trades.
-    * let **take** you the **good** trades (**needs** also be **tested**).
+    * **prevent** you from taking **bad trades**.
+    * let **take** you the **good trades** (needs also be **tested**).
     * lag as little as possible.
-* VP shows **example** of a bad **confirmation** indie. *(t = 11:00)*
+* VP shows an **example** of a bad **confirmation** indie. *(t = 11:00)*
 * The ROC indi gave 8 loses over 5-6 month on this pair. Just to give an idea of the **time frame**
   and **frequency**. *(t = 13:50)*
 * VP then demonstrates how a bad **volume** indi can **fix** some **losses**. *(t = 14:00)*
@@ -134,13 +141,18 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 * Even the **best** volume indi sometimes **prevents** us from taking **good** trades. But the 
   prevented **losses outnumbers** this.  
   Pieces 2 and 4 of the algo **rarely** skip good trades btw. *(t = 23:50)*
-* VP stresses in another **example** how **important** it is to **prevent** entering **loss** trades!
+* VP stresses in another **example** how **important** it is to **prevent** entering **loss trades**!
   We have to **test** for **this**. *(t = 20:00)*
 * VP asks the followers to give a link to their volume indi source. *(t = 26:20)*
 * VP gives a **hint** to an **additional** volume tool. *(t = 28:00)*
 * Conclusion:
     * Only trade when the volume is there.
-    * Keep adjusting your volume indi and searching for better ones.
+    * Keep adjusting your volume indi and the search for better ones.
+* *Blog:* To **test** a **volume** indi:
+    * take the **win/loss** data from the **confirmation** indi
+    * delete any wins and losses the volume indi prevented.
+    * **Compare** the recorded **differences** for every indi tested.
+    * **Tweak** the **settings**.
 
 
 ## [TA 13](https://youtu.be/N8Kbk0cwIWg "Volume Indicator 2 - YouTube") / - - -
@@ -225,7 +237,7 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
     * For e.g. **ATR** was 80 pips at **time of entry**. If you made 80 pips **before** you
       **lost** 120 pips *(1.5 x ATR)*, it was a **win**. *(t = 8:10)*
     * *Blog:* Just **move on** in cases where the indicator gives a signal to go opposite **before** 
-      price had become **win or loss**.
+      price became **win or loss**.
     * Record win/loss while going backwards in time. It gives a **win/loss record** for this indi.  
       *Blog:* For every currency **pair** have a **separate** spread **sheet** that contains:
       *Indicator | Settings | win | lose | win %*
