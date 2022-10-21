@@ -25,17 +25,19 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
     * [Technical Analysis](https://www.youtube.com/playlist?list=PLPqWQo6-TXfE_EEypsX7-by2qub_S09WN "YouTube playlist") (Trade Entries)
 
 ## Essence Papers on NNF materials in this repository
-
-* **PodCast** (step 2):<br>
+* **Step Two** (Podcast):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
-* **Core Concept** Videos (step 3):<br>
+* **Step Three** (Core Concept Videos):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/CoreConceptVideos.md>
-* **Money Management** (what's next 1):<br>
+* ###What's next
+    * Money Management:<br>
   <https://github.com/RivenHexagon/NNF/blob/main/MoneyManagement.md>
-* **Technical Analysis** (what's next 3):<br>
+    * Technical Analysis:<br>
   <https://github.com/RivenHexagon/NNF/blob/main/TechnicalAnalysis.md>
 
-The preparation of this papers resulted from the need to take personal notes while studying the NNF material. It deals only with content from the perspective of a fully **algorithmic approach** to the **FX indicator search** and **trading**. Therefore, the content written down is **selective**, as is the sample of videos and podcasts included.
+If a video or podcast has a corresponding blog, its additional content is included.
+
+The preparation of this papers resulted from the need to take personal notes while studying the NNF material. It deals only with content from the perspective of a fully **algorithmic approach** to the **FX indicator search** and **trading**. Therefore, the content written down is **selective**, as is the sample of videos and podcasts.
 
 ## Go Get it!
 Install *ReText* to propperly display and edit the *markdown files* offline if desired:
