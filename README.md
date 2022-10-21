@@ -1,4 +1,4 @@
-# No Nonsense Forex -<br>Strategy Guideline and Essentials
+# No Nonsense Forex -<br>Strategy Guideline and Essence
 
 The files in this repository represent a **condensed exerpt** of the *No Nonsense Forex* trading strategy from his **[blogs](https://nononsenseforex.com/forex-blog/ "NNF blog")**, **[videos](https://www.youtube.com/channel/UCc8IRYpgBr4NGbaQFnd2b-A "youtube")** and **[podcast](https://nononsenseforex.com/forex-podcast/)**.
 
@@ -24,7 +24,7 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
     * [Trade Psychology](https://www.youtube.com/playlist?list=PLPqWQo6-TXfHvb2XDgU-WgFIubbo3gBVR "YouTube playlist")
     * [Technical Analysis](https://www.youtube.com/playlist?list=PLPqWQo6-TXfE_EEypsX7-by2qub_S09WN "YouTube playlist") (Trade Entries)
 
-## Essential Papers on NNF materials in this repository
+## Essence Papers on NNF materials in this repository
 
 * **PodCast** (step 2):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>

@@ -202,15 +202,35 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 ### Advanced Forex Strategy - NNFX Traders Only (16:37)
 
 ## [Podcast Ep 21](https://nononsenseforex.podbean.com/e/ep21-backtesting-indicators/ "Ep 32 - Backtesting") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/forex-backtesting-step-by-step/ "Backtesting - Blog")
-### Backtesting Indicators (15:41)
+### Backtesting (Confirmation) Indicators (15:41)
 * *Q:* What is the most effective way to test confirmation and exit indis?
+* The answer is based on an **early stage** where only **ATR, confirmation and exit** indi are 
+  revealed, including **risk management** and **scaling out**.
+* *Blog:* Three questions to answer before:
+    * How many currency pairs to test this on?
+    * Are you modifying the default settings and how many times?
+    * How far back are you gonna test?
 * *A:* VP **focuses** on testing the **confirmation** indi. *(t = 6:00)*
     * Pic a currencey pair and put the indi up on the chart with the **default settings** first.
     * Put the ATR underneith.
-    * Go **back** 2 - 3 years **max**, since **market** was completely **different** further back.
-
-*continue at t=8:00*
-
-
+    * Go **back** 2 - 3 years **max**, since **market** was completely **different** further back.  
+      *Blog:* An excellent confirmation indi gives you signals when the market is right for it, and
+      avoids signals when it’s not.
+    * Start from the present and go **back in time** until the **first** buy/sell **signal**.
+    * *Blog:* Figure loss or win:
+        * Find the **ATR** at **time of entry** (buy/sell signal).
+        * Figure what **event** happened **first**:  
+          did price hit the *1.0 x ATR* value as a **win** or  
+          did price hit the *1.5 x ATR* in the **opposite** direction as a **loss**?
+    * For e.g. **ATR** was 80 pips at **time of entry**. If you made 80 pips **before** you
+      **lost** 120 pips *(1.5 x ATR)*, it was a **win**. *(t = 8:10)*
+    * *Blog:* Just **move on** in cases where the indicator gives a signal to go opposite **before** 
+      price had become **win or loss**.
+    * Record win/loss while going backwards in time. It gives a **win/loss record** for this indi.  
+      *Blog:* For every currency **pair** have a **separate** spread **sheet** that contains:
+      *Indicator | Settings | win | lose | win %*
+    * Make a **percentage** of it. 10 wins and 5 losses yield a **66 % win** percentage. *(t = 8:50)*
+    * Repeat this for all indis and make a **ranking**. Go forward with the **2-3 best** ones.
+    * *Blog:* VP can test about **5 indis** in roughly **30 min** by hand.
 
 END
