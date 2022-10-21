@@ -29,13 +29,13 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
   <https://github.com/RivenHexagon/NNF/blob/main/PodCastEpisodes.md>
 * **Step Three** (Core Concept Videos):<br>
   <https://github.com/RivenHexagon/NNF/blob/main/CoreConceptVideos.md>
-* ###What's next
+* ### What's next
     * Money Management:<br>
   <https://github.com/RivenHexagon/NNF/blob/main/MoneyManagement.md>
     * Technical Analysis:<br>
   <https://github.com/RivenHexagon/NNF/blob/main/TechnicalAnalysis.md>
 
-If a video or podcast has a corresponding blog, its additional content is included.
+If a video or podcast has a corresponding **blog**, its additional content is **included**.
 
 The preparation of this papers resulted from the need to take personal notes while studying the NNF material. It deals only with content from the perspective of a fully **algorithmic approach** to the **FX indicator search** and **trading**. Therefore, the content written down is **selective**, as is the sample of videos and podcasts.
 
