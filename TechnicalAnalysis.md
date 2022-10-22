@@ -202,6 +202,20 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 20](https://youtu.be/JxUtee7krFc "Algorithm Part 5 - YouTube") / - - -
 ### My Forex Algorithm - Part 5 Revealed (23:59)
+* Algorithm update:
+    * ATR
+    * ???
+    * 1st Confirmation Indi
+    * **2nd Confirmation** Indi
+    * Volume Indi
+    * Exit Indi
+* Have two confirmation indis of **different types** out of the three categories *zero-cross*,
+  *two lines cross* and *chart indicator* .
+* **Together** they have to play well. **Test** them in **combination**.
+* The **main** confirmation indie makes **all** the **decisions** for **entry**.
+* **Then** consult the **2nd confirmation** indi for green or red light.
+* Find out which 2nd indi **takes** away the most **losses** while **preserving** the **wins**.
+* Chart **example** on a representative *EUR/USD* section **(Aug 2018 - Feb 2019)**. *(t = 14:00)*
 
 
 ## [TA 25](https://youtu.be/1b3D1gNUyiw "Exit Indicators - YouTube") / - - -
