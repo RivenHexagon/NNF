@@ -69,10 +69,10 @@ Technical details at Investopedia: <https://www.investopedia.com/terms/a/atr.asp
 *   **VP shows** an **example** on a **demo account**, doing the **math by hand**. *(t = 14:20)*
 *   Algorithm system revealed so far: *(t = 21:40)*
 *   1. ATR
-    2. -- not yet provided --
+    2. ???
     3. Conformation indicator
-    4. -- not yet provided --
-    5. -- not yet provided --
+    4. ???
+    5. ???
     6. Exit indicator
 *   Usually your **exit indicator** gets you **out** of a bad trade **before** it hits the
     **stop loss**. Sometimes a **conformation indicator** can do this, but sometimes you **find one

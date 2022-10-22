@@ -117,12 +117,12 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 ## [TA 12](https://youtu.be/NWqbmPC3bD8 "Volume Indicator - YouTube") / [Blog](https://nononsenseforex.com/indicators/forex-volume/ "Volume Indicator - Blog")
 ### Forex Volume Indicator - Our Oxygen Meter (30:56)
 * Algorithm update:
-    * ATR
-    * ???
-    * Confirmation Indi
-    * ???
-    * **Volume** Indi
-    * Exit Indi
+    1. ATR
+    2. ???
+    3. Confirmation Indi
+    4. ???
+    5. **Volume** Indi
+    6. Exit Indi
 * We are trend traders and **volume** makes markets **trend**.
 * **Without** volume we make **losses**. We can eliminate those with a good volume indie.
 * Part 2 and 4 of the **algorithm** also cut down losses the **confirmation** indi would give.
@@ -203,16 +203,16 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 ## [TA 20](https://youtu.be/JxUtee7krFc "Algorithm Part 5 - YouTube") / - - -
 ### My Forex Algorithm - Part 5 Revealed (23:59)
 * Algorithm update:
-    * ATR
-    * ???
-    * 1st Confirmation Indi
-    * **2nd Confirmation** Indi
-    * Volume Indi
-    * Exit Indi
+    1. ATR
+    2. ???
+    3. 1st Confirmation Indi
+    4. **2nd Confirmation** Indi
+    5. Volume Indi
+    6. Exit Indi
 * Have two confirmation indis of **different types** out of the three categories *zero-cross*,
   *two lines cross* and *chart indicator* .
 * **Together** they have to play well. **Test** them in **combination**.
-* The **1st confirmation** indie makes **all** the **decisions** for **entry**.
+* The **1st confirmation** indie makes **all** the **decisions** for **entry**.*
 * **Then** consult the **2nd confirmation** indi for green or red light.
 * Find out which 2nd indi **takes** away the most **losses** while **preserving** the **wins**.
 * Chart **example** on a representative *EUR/USD* section **(Aug 2018 - Feb 2019)**. *(t = 14:00)*
@@ -235,6 +235,34 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
     * **Heikin Ashi** can be used, such as the **Vigor Index**.
     * In search for a **better** one, it has to **beat those** two. **Only** then **tweak** settings.
 * VP shows chart **example** with *Vigor Index. (t = 14:40)*
+
+
+## [TA 26](https://youtu.be/us00-j9Y4oU "MA Crossovers - YouTube") / - - -
+### Moving Average Crossovers in FX -- There's a Better Way (24:13)
+* Some traders use a **moving average** as **trailing stop**:
+    * After taking first profit, wait until price **crosses** the **other** way. If it closes
+      **beyond** the MA, **exit**. *(t = 3:10)*
+    * Chart **example**. *(t = 4:10)*
+* **MA  Crossovers** are mostly too **late** when used to **enter** trades. *(t = 6:20)*
+    * Chart **example** with 50 and 200 MA. *(t = 7:40)*
+    * VP changes to 50 and 20 MA. *(t = 10:00)*
+    * **Alternatively** VP waits until price **closes above** the 50 MA **instead** of the crossover.
+    * We can use **one** good **MA** type of indi to **enter** trades: *(t = 15:50)*  
+    * It's the **final piece** of the **algorithm**. *(t = 16:20)*
+    * It **tells** if we're in a **trend** the one **way** or the other.
+* Algorithm update:
+    1. ATR
+    2. **Baseline**
+    3. 1st Confirmation Indi
+    4. 2nd Confirmation Indi
+    5. Volume Indi
+    6. Exit Indi
+* Baseline **usage**:
+    * If **price** sits **above** baseline, **never** go **short**.
+    * If **price** sits **below** baseline, **never** go **long**.
+    * Can be **used** to **enter** a trade, if the **confirmation** and **volume** indis agree.
+* There are **many types** of possible baseline indis: *SMA, EMA, TEMA, FRAMA, VIDA,
+  TMA/TRIMA, McGinley, DEMA, AMA,* etc.
 
 
 ## [TA 27](https://youtu.be/x_8wfjTLdoY "FX Baseline - YouTube") / - - -
