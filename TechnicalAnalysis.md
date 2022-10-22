@@ -212,7 +212,7 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 * Have two confirmation indis of **different types** out of the three categories *zero-cross*,
   *two lines cross* and *chart indicator* .
 * **Together** they have to play well. **Test** them in **combination**.
-* The **main** confirmation indie makes **all** the **decisions** for **entry**.
+* The **1st confirmation** indie makes **all** the **decisions** for **entry**.
 * **Then** consult the **2nd confirmation** indi for green or red light.
 * Find out which 2nd indi **takes** away the most **losses** while **preserving** the **wins**.
 * Chart **example** on a representative *EUR/USD* section **(Aug 2018 - Feb 2019)**. *(t = 14:00)*
@@ -220,6 +220,21 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 25](https://youtu.be/1b3D1gNUyiw "Exit Indicators - YouTube") / - - -
 ### Exit Indicators - Worth A Lot More Than You Think (24:03)
+* An exit indicator gets you **out** of a:
+    * **winning** trade  **before** it hits the **trailing stop**. *(t = 3:00)*
+    * **losing** trade **before** it hits the **stop loss**. *(t = 4:40)*
+    * **stagnating** trade that has lost its momentum. *(t = 6:00)*
+* After scale out it **exits** a **winning** trade close to the top/botton of a long/short trade.
+* The **trailing** stop **protects** you from an **extreme** short/long candle. Same holds true for
+  the **stop loss**.  
+  But the indicator **exits** at a more **optimal** time.
+* **Rules** for **finding/using** one: *(t = 6:30)*
+    * Could be the **same** as the **confirmation** indicator. (Was the case for VP).
+    * If not, it only goes on chart **after** entering a trade.
+    * **Two-lines cross** recommended. **Test** for entry **and** exit capabilities.
+    * **Heikin Ashi** can be used, such as the **Vigor Index**.
+    * In search for a **better** one, it has to **beat those** two. **Only** then **tweak** settings.
+* VP shows chart **example** with *Vigor Index. (t = 14:40)*
 
 
 ## [TA 27](https://youtu.be/x_8wfjTLdoY "FX Baseline - YouTube") / - - -
