@@ -1,5 +1,5 @@
 
-# NNF Essentials on Money Management
+# NNF Essence on Money Management
 ## Strategy Guideline - What's next 1
 
 YouTube: <https://www.youtube.com/playlist?list=PLPqWQo6-TXfE8G_Mmxow0znSSoWTu44e7>

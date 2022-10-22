@@ -1,5 +1,6 @@
 
-# NNF Essentials on Core Concept Videos
+# NNF Essence on Core Concept Videos
+## Strategy Guideline - Step 3
 
 YouTube: <https://youtube.com/playlist?list=PLPqWQo6-TXfHyC12MRHK5doA5oUeGwpkV>
 

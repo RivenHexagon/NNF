@@ -22,7 +22,7 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
 * **What's next**
     * [Money Management](https://www.youtube.com/playlist?list=PLPqWQo6-TXfE8G_Mmxow0znSSoWTu44e7 "YouTube playlist")
     * [Trade Psychology](https://www.youtube.com/playlist?list=PLPqWQo6-TXfHvb2XDgU-WgFIubbo3gBVR "YouTube playlist")
-    * [Technical Analysis](https://www.youtube.com/playlist?list=PLPqWQo6-TXfE_EEypsX7-by2qub_S09WN "YouTube playlist") (Trade Entries)
+    * [Technical Analysis](https://www.youtube.com/playlist?list=PLPqWQo6-TXfE_EEypsX7-by2qub_S09WN "YouTube playlist")
 
 ## Essence Papers on NNF materials in this repository
 * **Step Two** (Podcast):<br>
@@ -35,7 +35,7 @@ Follow the **Core Concepts [Playlist](https://youtube.com/playlist?list=PLPqWQo6
     * Technical Analysis:<br>
   <https://github.com/RivenHexagon/NNF/blob/main/TechnicalAnalysis.md>
 
-If a video or podcast has a corresponding **blog**, its additional content is **included**.
+If a **video** or **podcast** has a corresponding **blog**, its additional content is **included**.
 
 The preparation of this papers resulted from the need to take personal notes while studying the NNF material. It deals only with content from the perspective of a fully **algorithmic approach** to the **FX indicator search** and **trading**. Therefore, the content written down is **selective**, as is the sample of videos and podcasts.
 

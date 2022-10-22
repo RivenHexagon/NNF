@@ -1,5 +1,5 @@
 
-# NNF Essentials on PodCast Episodes 3 - 13
+# NNF Essence on PodCast Episodes 3 - 13
 ## Strategy Guideline - Step 2
 
 Podcast: <https://nononsenseforex.com/forex-podcast/>

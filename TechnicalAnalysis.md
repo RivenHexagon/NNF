@@ -1,4 +1,4 @@
-# NNF Essentials on Technical Analysis / FX Indicators
+# NNF Essence on Technical Analysis / FX Indicators
 ## Strategy Guideline - What's next 3
 
 YouTube: <https://www.youtube.com/playlist?list=PLPqWQo6-TXfE_EEypsX7-by2qub_S09WN>
@@ -188,6 +188,16 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 18](https://youtu.be/IxZ1EdqFJcM "MA on Indicators - YouTube") / - - -
 ### Putting A Moving Average on an Indicator Makes Things Happen (19:57)
+* Indis that seem **useless** at first glance, may turn out **usefull** if combined with a **moving
+  average**.
+* VP shows an example on the chart. *(t = 5:20)*
+    * In the menu go to *trend*, not oscillators, and choose *MA*.
+    * *Drag* it down on the indicator under test.
+    * In the pop-up window from the *Apply to* drop-down menu, choose *First Indocator's Data*.
+* **Turned** indi under test into a **two-line cross** that gave usefull short signals. *(t = 6:40)*
+* Example with a **zero cross** indi and turns it into a **continuation** trade indi. *(t = 12:00)*
+* **Continuation** trades are **not part** of the **algorithm**, but an **add-on**. *(t = 13:10)*
+* Example **with** a volume indi (ADx). *(t = 14:00)*
 
 
 ## [TA 20](https://youtu.be/JxUtee7krFc "Algorithm Part 5 - YouTube") / - - -
