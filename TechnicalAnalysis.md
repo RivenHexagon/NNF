@@ -265,6 +265,15 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
   TMA/TRIMA, McGinley, DEMA, AMA,* etc.
 
 
+## [Podcast Ep39](https://nononsenseforex.podbean.com/e/ep39-the-one-candle-rule/ "Ep 39" - One Candle Rule) / - - -
+### The "One Candle" Rule
+* ***Q:*** Main **confirmation** indicator says **go**, but the others **lag** behind a day or two
+  conforming. Is it okay to still wait for them and make the trade? Or is it a hard rule for full
+  agreement at the **time** of the **signal**?
+* ***A:*** If other indis catch up **one candle/day later**, enter under the **condition**:  
+  If price has **not moved** more than **+/-3 pips**. Otherwise be patient and **pass**.
+
+
 ## [TA 27](https://youtu.be/x_8wfjTLdoY "FX Baseline - YouTube") / - - -
 ### Forex Baseline - We Go Deep (27:12)
 * Rules for **entry/exit**:
@@ -274,7 +283,7 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
       **exit indicator** says so! *(t = 5:30)*
 * We used to check the **confirmation** indicator **first** and then look at the rest. Now we
   look at **both**, conformation and baseline, if **either** of them is giving a signal. *(t = 6:50)*
-* Depending on which signals first, **then** we **cross reference** with the **other**. *(t = 11:40)*
+* Depending on which signals **first**, we then **cross reference** with the **other**. *(t = 11:40)*
 * This **increases** the **entry** opportunities, see chart **example**. *(t = 12:00)*
 * [One Candle Rule](https://nononsenseforex.podbean.com/e/ep39-the-one-candle-rule/ "Podcast Ep 39")
   does not apply. *(t = 6:20)*
@@ -296,14 +305,14 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [Podcast Ep 21](https://nononsenseforex.podbean.com/e/ep21-backtesting-indicators/ "Ep 32 - Backtesting") / [Blog](https://nononsenseforex.com/forex-q-and-a-podcast/forex-backtesting-step-by-step/ "Backtesting - Blog")
 ### Backtesting (Confirmation) Indicators (15:41)
-* *Q:* What is the most effective way to test confirmation and exit indis?
+* ***Q:*** What is the most effective way to test confirmation and exit indis?
 * The answer is based on an **early stage** where only **ATR, confirmation and exit** indi are 
   revealed, including **risk management** and **scaling out**.
 * *Blog:* Three questions to answer before:
     * How many currency pairs to test this on?
     * Are you modifying the default settings and how many times?
     * How far back are you gonna test?
-* *A:* VP **focuses** on testing the **confirmation** indi. *(t = 6:00)*
+* ***A:*** VP **focuses** on testing the **confirmation** indi. *(t = 6:00)*
     * Pic a currencey pair and put the indi up on the chart with the **default settings** first.
     * Put the ATR underneith.
     * Go **back** 2 - 3 years **max**, since **market** was completely **different** further back.  
