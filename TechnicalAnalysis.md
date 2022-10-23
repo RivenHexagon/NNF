@@ -254,8 +254,8 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
     1. ATR
     2. **Baseline**
     3. 1st Confirmation Indi
-    4. 2nd Confirmation Indi
-    5. Volume Indi
+    4. Volume Indi
+    5. 2nd Confirmation Indi
     6. Exit Indi
 * Baseline **usage**:
     * If **price** sits **above** baseline, **never** go **short**.
@@ -267,6 +267,20 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 27](https://youtu.be/x_8wfjTLdoY "FX Baseline - YouTube") / - - -
 ### Forex Baseline - We Go Deep (27:12)
+* Rules for **entry/exit**:
+    * **Enter** when price **crosses** over and **closes beyond** the **baseline**.
+    * Rest of the **algorithm** must **agree**. *(t = 4:40)*
+    * **Exit** once price **crosses** and **closes** the **other way** - even **before** the
+      **exit indicator** says so! *(t = 5:30)*
+* We used to check the **confirmation** indicator **first** and then look at the rest. Now we
+  look at **both**, conformation and baseline, if **either** of them is giving a signal. *(t = 6:50)*
+* Depending on which signals first, **then** we **cross reference** with the **other**. *(t = 11:40)*
+* This **increases** the **entry** opportunities, see chart **example**. *(t = 12:00)*
+* [One Candle Rule](https://nononsenseforex.podbean.com/e/ep39-the-one-candle-rule/ "Podcast Ep 39")
+  does not apply. *(t = 6:20)*
+* Example how baseline can **prevent** a **good** trade if not propperly **adjusted** to the 
+  **other** indicators. *(t = 16:30)*
+* Example on how the **One Candle Rule** does **not** apply. *(t = 18:40)*
 
 
 ## [TA 28](https://youtu.be/JssEr6mopDc "Pullbacks - YouTube") / - - -
