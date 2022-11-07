@@ -265,7 +265,7 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
   TMA/TRIMA, McGinley, DEMA, AMA,* etc.
 
 
-## [Podcast Ep39](https://nononsenseforex.podbean.com/e/ep39-the-one-candle-rule/ "Ep 39" - One Candle Rule) / - - -
+## [Podcast Ep39](https://nononsenseforex.podbean.com/e/ep39-the-one-candle-rule/ "Ep 39 - One Candle Rule") / - - -
 ### The "One Candle" Rule
 * ***Q:*** Main **confirmation** indicator says **go**, but the others **lag** behind a day or two
   conforming. Is it okay to still wait for them and make the trade? Or is it a hard rule for full
@@ -294,10 +294,52 @@ See Essentials on Money Management: <https://github.com/RivenHexagon/NNF/blob/ma
 
 ## [TA 28](https://youtu.be/JssEr6mopDc "Pullbacks - YouTube") / - - -
 ### Pullbacks In Forex - Don't Get Crazy Here (24:24)
+* There's **one** good **time** to **use** pullbacks. **Avoid** them **otherwise**.
+* VP sees this as an **advanced concept**. It can be **skipped**.
+* A **pullback** is a **big candle** followed by a **shorter** candle going the **other way**.
+  *(t = 2:50)*
+* You **enter** after the short candle, **instead** of the big one. Still you **expect** the
+  **deal** going the way your algorithm **predicted**!
+* Big Candles are not the extremes like brexit etc. but:
+    * News events
+    * Big Banks stop-loss-hunting
+    * Price just going that way
+* Can take advantage in **profiting** or reducing **losses** by bringing pullbacks into our
+  system in certain **situations**:
+    * Only when price in **one** candle **closed** way **past** the **baseline** *(t = 6:40)*
+      and then **pulls back** below a certain level *(t = 8:00)*!
+    * The following measures apply for this cases:
+        * Do **not** enter when price goes **more** than *1 x ATR* **beyond** baseline,
+          **despite** what the **algorithm** says! *(t = 7:00)*
+        * **Wait** for the pullback by the next day *(* ***one*** *candle rule )* if price is
+          **less** than *1 x ATR*, but **still bejond** the base line and **enter** if the
+          **algorithm** still says **ok**. *(t = 11:30)*
+          *(t = 8:00)*
+* For e.g. *EUR/USD, ATR = 80*. Price is below baseline. Next day price crosses *100 pips*
+  **above**. Do **not** enter a long *(t = 7:20)*.  
+  **Wait** for the pullback. If by the next day price is just 72 pips, we can **enter**.
+  *(t = 8:00)*
+* This rules don't apply **until** prices shoots past base line and comes back into limits!
+* Chart **example**. *(t = 9:10)*
+* Usually don't apply *one candle rule* to **baseline**: exception of the **exception**.
+ *(t = 11:00)*
+* We could have **ignored** the **pullback** rule and entered 70 pips **worse**, but still
+  **profitable**. *(t = 11:40)*
+* Example of **pullback** rule **prevented** a **loss**, by **not** taking a **trade**,
+  because the candle moved **more** that *1 x ATR* beyond the **baseline**! *(t = 12:40)*
+
+*continue @ t = 13:40*
 
 
 ## [TA 29](https://youtu.be/0SFM5t_XjwQ "Continuation Trades - YouTube") / - - -
 ### Forex Algorithm Trading - Continuation Trades (16:38)
+* If the **exit OR confirmation** indi **flips** the other way, **exit** the trade. *(t = 3:50)*
+* We can **not** re-enter **until** we get **another** signal. *(t = 4:10)*
+* We might get a **continuation signal**.
+* Rules for **continuation** trades go **against** most of the **rules** established. *(t = 4:40)*
+* **Two** rules we **break**: *(t = 5:00)*
+
+*add pullbacks first, continue @ 5:00*
 
 
 ## [TA 34](https://youtu.be/b9HE8q0tobQ "Advanced Strategy - YouTube") / - - -
